@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Fady's Design Journal`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Fady Azmy`,
+      summary: `who lives in Canada and eats hummus and bananas for breakfast.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A personal journal taking you through the experience of someone attempting to learn a bit about design.`,
+    siteUrl: `https://design-journal.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `fadyazmy`,
     },
   },
   plugins: [
