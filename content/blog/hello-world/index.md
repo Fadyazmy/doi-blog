@@ -1,28 +1,22 @@
 ---
 title: Hello Design World 
-date: "2015-05-01T22:12:03.284Z"
-description: "My "
+date: "2020-03-09T22:12:03.284Z"
+description: "Entry #1 - What's this blog about?"
 ---
 
-Hey reader! I've created this blog to mainly share my experience with learning design from scratch. I will admit here, that my go-to design style is stick figures.
+Hey reader! 
 
-I'll be documenting my struggles and also sharing my wins with you as I go on this wild adventure of discovering Design. 
+I've created this blog to share my experiences with you as I attempt to learn design from scratch. As someone who considers themself to be a software engineer/data scientist, I know this is an uncomfortable space to be in, especially since I've been struggling with designing even my own projects so far. 
 
-> You may be wondering how am I learning design? 
-I met [Devin Mancuso](https://google.com) through a mutual friend, who happened to be starting a open source design school called the Department of Illusions (DOI). I think Devin was mainly looking for designers and how to help them be better, but I think after speaking with me, he saw something that was worth taking the risk. For that I am trully grateful. 
+I'll be documenting my struggles and also sharing my small wins with you as I go on this wild adventure of discovering Design. I'm hoping through this, others can find parallels and be motivated to learn about design their own way.
 
+> **You may be wondering, how am I learning design?**
+> I'm enrolled in an experimental design school called Department of Illusions. This is started by [Devin Mancuso](https://dev.in/) who's vision for the school is to xxxx 
 
+![Fady display picture](https://fadyazmy.github.io/imgs/realrealdp.jpg)
 
+To really understand the conext of this blog for me, I must share a little about myself. I'm Fady, a student at Western University in Canada, and I love to work on side projects relating to human relationships / sustainability when I'm not busy dancing West Coast Swing. 
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+I have been curious about [cybersecurity](https://web.archive.org/web/20161126232756/http://www.westerncyber.club/), [non-profits](https://developersfoundation.ca) and most recently [Quantum Computing](https://www.creativedestructionlab.com/2018/07/creative-destruction-lab-hosts-its-first-ever-quantum-hackathon/). For each topic, I've spent from 8 months - 2 years being a sponge, and adding as much value as I can give. 
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+I've been struggling with design a lot lately, as I have been spending time working on my side project [Thank You Trees](https://thankyoutrees.io) to  Thank You Gifts meaningful, accessibly. This struggle has made self-aware that I need to improve on my design skills. Be it, for customer interviews, spining up draft mockups and even understanding user experience. 
