@@ -3,7 +3,7 @@ module.exports = {
     title: `Fady's Design Journal`,
     author: {
       name: `Fady Azmy`,
-      summary: `who lives in Canada and eats hummus and bananas for breakfast.`,
+      summary: `who lives in Canada and is a lover of good hummus.`,
     },
     description: `A personal journal taking you through the experience of someone attempting to learn a bit about design.`,
     siteUrl: `https://design-journal.netlify.com/`,
