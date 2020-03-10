@@ -6,17 +6,19 @@ description: "Entry #1 - What's this blog about?"
 
 Hey reader! 
 
-I've created this blog to share my experiences with you as I attempt to learn design from scratch. As someone who considers themself to be a software engineer/data scientist, I know this is an uncomfortable space to be in, especially since I've been struggling with designing even my own projects so far. 
+I've created this blog to share my experiences with you as I attempt to learn design from scratch. As someone who considers themselves to be a software engineer and data scientist, this is an uncomfortable space for me to be in.
 
-I'll be documenting my struggles and also sharing my small wins with you as I go on this wild adventure of discovering Design. I'm hoping through this, others can find parallels and be motivated to learn about design their own way.
+I'll be documenting my struggles and also sharing my small wins with you as I go on this wild adventure of discovering Design. I'm hoping through this, others can find parallels and be motivated to learn about design in similar ways.
 
 > **You may be wondering, how am I learning design?**
-> I'm enrolled in an experimental design school called Department of Illusions. This is started by [Devin Mancuso](https://dev.in/) who's vision for the school is to xxxx 
+> I'm enrolled in an experimental design school called Department of Illusions. This is started by [Devin Mancuso](https://dev.in/) who's vision for the school is (tbd).
 
 ![Fady display picture](https://fadyazmy.github.io/imgs/realrealdp.jpg)
 
-To really understand the conext of this blog for me, I must share a little about myself. I'm [Fady](https://fadyazmy.github.io/), a student at Western University in Canada, and I love to work on side projects relating to human relationships / sustainability. When I'm not on stackoverflow, I'm busy dancing West Coast Swing or working with my community (more on that later) to re-discover my Egyptian identity.
+To understand the context of this blog for me, I must share a little about myself. I'm [Fady](https://fadyazmy.github.io/), a student at Western University in Canada, and I love to work on side projects relating to human relationships or sustainability. When I'm not on Stack Overflow, I'm busy dancing West Coast Swing or working with my community (more on that later) to re-discover my Egyptian identity.
 
 I have been curious about [cybersecurity](https://web.archive.org/web/20161126232756/http://www.westerncyber.club/), [non-profits](https://developersfoundation.ca) and most recently [Quantum Machine Learning/Computing](https://www.creativedestructionlab.com/2018/07/creative-destruction-lab-hosts-its-first-ever-quantum-hackathon/). For each topic, I've spent from 8 months - 2 years being a sponge, and adding as much value as I can to the space. 
 
-I've been struggling with design a lot lately, as I have been spending time working on my side project [Thank You Trees](https://thankyoutrees.io) to  Thank You Gifts meaningful, accessibly. This struggle has made self-aware that I need to improve on my design skills. Be it, for customer interviews, spining up draft mockups and even understanding user experience. 
+Since last year, I've been struggling with figuring out the design of a side project that I'm passionate about and have been working on - [Thank You Trees](https://thankyoutrees.io).
+
+Thank You Trees is a platform to create and share minimalist/climate conscious gifts with friends and family. I knew it was to focus on improving my design skills and language, ever since I've felt frustrated at my basic design tools that I am familiar with expressing myself with. 
