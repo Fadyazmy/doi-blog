@@ -8,7 +8,7 @@ module.exports = {
     description: `A personal journal taking you through the experience of someone attempting to learn a bit about design.`,
     siteUrl: `https://design-journal.netlify.com/`,
     social: {
-      twitter: `fadyazmy`,
+      twitter: `fadifessa`,
     },
   },
   plugins: [
