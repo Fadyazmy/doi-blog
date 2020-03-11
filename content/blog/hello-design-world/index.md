@@ -11,7 +11,7 @@ I've created this blog to share my experiences with you as I attempt to learn de
 I'll be documenting my struggles and also sharing my small wins with you as I go on this wild adventure of discovering Design. I'm hoping through this, others can find parallels and be motivated to learn about design in similar ways.
 
 > **You may be wondering, how am I learning design?**
-> I'm enrolled in an experimental design school called Department of Illusions. This is started by [Devin Mancuso](https://dev.in/) who's vision for the school is (tbd).
+> I'm enrolled in an experimental design school called Department of Illusions. This is started by [Devin Mancuso](https://dev.in/) who’s vision for the school is an educational space built upon the idea of students operating as a micro-community, in which they can develop not just their understanding of design but also the social and political environments in which their designs take place.
 
 ![Fady display picture](https://fadyazmy.github.io/imgs/realrealdp.jpg)
 
