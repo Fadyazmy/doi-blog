@@ -1,0 +1,114 @@
+---
+title: Week 1
+date: "2020-03-10T22:12:03.284Z"
+description: "Education for design, is the learning of the skill and acquisition of a philosophy"
+---
+
+#### Index: 
+- [How I'm feeling so far?](#howAmIfeeling)
+- [The assignment for this week](#assignment)
+- [My responses](#responses)
+- [This week's assignment takeaways](#assignmentTakeaways)
+- [This week's discussions takeaways](#discussionTakeaways)
+
+### <a name="howAmIfeeling"></a> How I'm feeling so far?
+When I work on side projects, I often want to start coding before making any plans so I could feel that I'm making progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as they wrap up before finals. 
+
+If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university last week of March after talking to a number of people who shared the same feelings. To my knowledge this is the first event of it's kind at any campus in Canada. I'm pretty excited about this! 
+
+One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance, and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited about to learn what their interests and needs are.
+
+------
+### <a name="assignment"></a> The assignment for this week
+The assignment for this week focused on figuring out our goals and what we hope to get out of the design school. I guess in other words, it's asking what is our story, and how can this school help us with where we want to take it (our story).
+
+The questions we were asked for week 2 are the following (fill them out yourself before looking at my answers!): 
+
+>### My Goals
+>1. What do you want the peak of your career to look like?
+>2. What do you hope to learn during the Department of Illusions?
+>3. What do you want to achieve by completing this course? Document up to three goals and the actions that will help you to achieve those goals.
+
+>### My Action Plan (pick one goal)
+>1. What are the steps (the actions) that you will take to help you move towards your goal? List out all the actions that would need to be completed to achieve your goal, be specific. Mention 3 steps. 
+
+>### Design how you will measure your goals
+>1. Design how you will measure your goals
+
+>### Create milestones for weeks 4, 8, and 12
+>1. Create milestones to evaluate progress towards your goal. Milestones can help break a large goal into digestible chunks, helping you see a clear path forward.
+
+------
+### <a name="responses"></a> My responses
+
+>### My Goals
+>1. What do you want the peak of your career to look like?
+
+My dream is to be a Product Manager at a high impact software company and also be a role model for others coming from non-target schools with little resources. Outside of work, I hope I invest my time and resources in mentoring local entrepreneurs and building inclusive communities for minorities (something I relate to).
+
+
+>2. What do you hope to learn during the Department of Illusions?
+
+I hope I can simply sit down one day, critic a problem like a professional designer and come up with a mock visual (if need be) that I can share and get feedback on. Just like with code. 
+
+>3. What do you want to achieve by completing this course? Document up to three goals and the actions that will help you to achieve those goals.
+
+1. My goal is to have a personal journal of my design progress
+2. My goal is to create a small design portfolio of 2-3 designs that I am proud of
+Web: My personal project (thank you trees)
+1-2 class project(s)
+3. My goal is to build relationships with everyone in my cohort, Devin, and my coach.
+
+>### My Action Plan (pick one goal)
+>1. What are the steps (the actions) that you will take to help you move towards your goal? List out all the actions that would need to be completed to achieve your goal, be specific. Mention 3 steps. 
+
+
+**Selected goal:**
+
+Goal #2 - create a small design portfolio of 2-3 designs that I am proud of.
+
+**The actions I will take to help me achieve this goal are:**
+1. Be on top of school and assignments. No procrastination.
+2. Commit to specific hours throughout the week for DOI work. Consider streaming on Twitch to enforce a commitment?
+3. Staying healthy, work out at least two times a week.
+
+
+>### Design how you will measure your goals
+>1. Design how you will measure your goals
+
+I will know when I’m making progress when my coach (TODO: ask if he'd like to be mentioned) is happy with my progress.
+
+>### Create milestones for weeks 4, 8, and 12
+>1. Create milestones to evaluate progress towards your goal. Milestones can help break a large goal into digestible chunks, helping you see a clear path forward.
+
+**The specific, measurable results I will produce by Week 4 are:**
+  - completed wireframe sketches for ThankYouTrees (TYT) homepage
+  - get feedback on the homepage
+
+**The specific, measurable results I will produce by Week 8 are:**
+- completed the case study for TYT (including home and gifts pages) 
+- written out all the content and images for the case study in a google doc
+- gotten feedback on the content and images
+- set up the portfolio on a chosen platform (custom/Jekyll/Webflow etc.)
+
+**The specific, measurable results I will produce by Week 12 are:**
+- completed a second case study project
+gotten feedback on all the content and images 
+- uploaded the case study on the portfolio website
+
+------
+### <a name="assignmentTakeaways"></a> This week's assignment takeaways (WIP)
+Lorem Ipsum 
+
+------
+### <a name="discussionTakeaways"></a> This week's discussion takeaways (WIP)
+Devin started this week's discussion with the question of what is Design? As someone who comes from a non-design background, I've been consuming (and perhaps the building) experiences. 
+
+During my days running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design was everything around communicating the vision and story to prospective online donors from a website.
+
+Similarly, 
+
+> ## Education for design, is the learning of the skill and acquisition of a philosophy.
+
+
+Update: my team and I cancelled the Arabs In Tech event because of the covid-19 virus. Stay tuned for what's next :)
