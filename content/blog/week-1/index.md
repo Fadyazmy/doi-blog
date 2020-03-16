@@ -1,26 +1,26 @@
 ---
 title: Week 1
 date: "2020-03-10T22:12:03.284Z"
-description: "Education for design, is the learning of the skill and acquisition of a philosophy"
+description: "So what's the story?"
 ---
 
 #### Index: 
-- [How I'm feeling so far?](#howAmIfeeling)
+- [How I'm feeling so far](#howAmIfeeling)
 - [The assignment for this week](#assignment)
 - [My responses](#responses)
 - [This week's assignment takeaways](#assignmentTakeaways)
 - [This week's discussions takeaways](#discussionTakeaways)
 
-### <a name="howAmIfeeling"></a> How I'm feeling so far?
-When I work on side projects, I often want to start coding before making any plans so I could feel that I'm making progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as they wrap up before finals. 
+### <a name="howAmIfeeling"></a> How I'm feeling so far
+When I work on side projects, I often want to start coding before making any plans in order to feel that I'm making progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as they wrap up before finals. 
 
-If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university last week of March after talking to a number of people who shared the same feelings. To my knowledge this is the first event of it's kind at any campus in Canada. I'm pretty excited about this! 
+If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university last week of March after talking to a number of people who shared the same feelings. To my knowledge, this is the first event of it's kind at any campus in Canada. I'm pretty excited about this! 
 
-One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance, and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited about to learn what their interests and needs are.
+One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited about to learn what their interests and needs are.
 
 ------
 ### <a name="assignment"></a> The assignment for this week
-The assignment for this week focused on figuring out our goals and what we hope to get out of the design school. I guess in other words, it's asking what is our story, and how can this school help us with where we want to take it (our story).
+The assignment for this week focuses on figuring out our goals and what we hope to get out of the design school. I guess in other words, it's asking what is our story, and how can this school help us with where we want to take it (story extension).
 
 The questions we were asked for week 2 are the following (fill them out yourself before looking at my answers!): 
 
@@ -76,7 +76,8 @@ Goal #2 - create a small design portfolio of 2-3 designs that I am proud of.
 >### Design how you will measure your goals
 >1. Design how you will measure your goals
 
-I will know when I’m making progress when my coach (TODO: ask if he'd like to be mentioned) is happy with my progress.
+<!-- TODO: ask if he'd like to be mentioned -->
+I will know when I’m making progress when my coach is happy with my progress.
 
 >### Create milestones for weeks 4, 8, and 12
 >1. Create milestones to evaluate progress towards your goal. Milestones can help break a large goal into digestible chunks, helping you see a clear path forward.
@@ -92,23 +93,32 @@ I will know when I’m making progress when my coach (TODO: ask if he'd like to 
 - set up the portfolio on a chosen platform (custom/Jekyll/Webflow etc.)
 
 **The specific, measurable results I will produce by Week 12 are:**
-- completed a second case study project
-gotten feedback on all the content and images 
+- completed a second case study project gotten feedback on all the content and images 
 - uploaded the case study on the portfolio website
 
 ------
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways (WIP)
-Lorem Ipsum 
+If you haven't already realised, my dear reader, you are going to be my guinea pig for the next 12 weeks. Since English isn't my first language, and I know my effective writing skills often hold me back from expressing delicate feelings/ideas, I plan to change this with a weekly high-quality journal entry that reflects my work, my thoughts, my feelings and my learnings. I welcome all and any feedback on how I could improve my effective writing skills :) 
+
+As I was coming up with my goals for this week's assignment, I asked myself, "If I had a magic wand, what would I wish to achieve at design school?". Interestingly, I could only think of my frustration at my lack of design understanding and communication. 
+
+For example, when working on ThankYouTrees, I know where the user experience feels wrong, but I usually can't put my finger on it.
+
+Other than my intentions to build a small design portfolio, I know the rest of my goals to be more design-focused. However, I'm trying to embrace that I am not a designer yet, so I don't know what beginner-middle stage designers are thinking about for their goals. I have to make sense of everything with the tools I have (building relationships/better writing plus do my best to be a sponge).
+
+**New word(s) I learnt:**
+- Secret Cabal - a group of people promoting their own views/agenda without the org knowing. 
 
 ------
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways (WIP)
-Devin started this week's discussion with the question of what is Design? As someone who comes from a non-design background, I've been consuming (and perhaps the building) experiences. 
+Devin started this week's discussion with the question of what is Design? As someone who comes from a non-design background, I've been consuming (and even perhaps building) experiences. 
 
-During my days running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design was everything around communicating the vision and story to prospective online donors from a website.
+During my time running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design to me meant communication. Specifically, how can we communicate the vision and story of the charity to the visitor, in order for them to convert to online paying donors on their new website.
 
-Similarly, 
+We also briefly discussed **responsible design means**, perhaps framed differently (but not exactly the same), what is the responsibility of a designer? 
 
-> ## Education for design, is the learning of the skill and acquisition of a philosophy.
+> Our role as designers, is to be the gatekeepers. We are responsible for those using our products.
 
+This made me wonder why designers don't go through an ethics ceremony similar to how engineers and doctors do. I'd argue the repercussions of Netflix's design patterns are significant to a lot of people's personal health. I found an interesting resource showing a hall of shame [examples](https://twitter.com/darkpatterns).
 
 Update: my team and I cancelled the Arabs In Tech event because of the covid-19 virus. Stay tuned for what's next :)

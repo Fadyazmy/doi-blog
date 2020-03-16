@@ -9,7 +9,7 @@ For the next 12 weeks at DOI, I'll be breaking down my journal entries into 3 se
 2. The assignment for this week, and (hopefully) my assignment work.
 3. My discussion takeaways for this week (once a week).
 
-## How I'm feeling so far?
+## How I'm feeling so far
 Week 0 started slow, which gave us some room to settle down and get our commitments in order for the program. We talked about work ethics that a good team member should have in the course, regardless if they're a designer or not. This put me as ease to know that it's okay if something pops up in life and I can't deliver what I should have.
 
 I've also just come back from speaking at my first panel talk this month at Kitchener (Canada), and I'm starting to review my personal story since I never had to talk (and think) about myself for this long.
