@@ -12,11 +12,11 @@ description: "So what's the story?"
 - [This week's discussions takeaways](#discussionTakeaways)
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
-When I work on side projects, I often want to start coding before making any plans in order to feel that I'm making progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as they wrap up before finals. 
+When I work on projects, I often want to start coding before making any plans because I just want to feel the rush and see that I'm progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as they wrap up before finals. 
 
-If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university last week of March after talking to a number of people who shared the same feelings. To my knowledge, this is the first event of it's kind at any campus in Canada. I'm pretty excited about this! 
+If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university last week of March after talking to several people who shared the same feelings. To my knowledge, this is the first event of it's kind at any campus in Canada, so I'm pretty excited about this! 
 
-One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited about to learn what their interests and needs are.
+One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited about to learn what his interests and needs are.
 
 ------
 ### <a name="assignment"></a> The assignment for this week
@@ -54,9 +54,9 @@ I hope I can simply sit down one day, critic a problem like a professional desig
 >3. What do you want to achieve by completing this course? Document up to three goals and the actions that will help you to achieve those goals.
 
 1. My goal is to have a personal journal of my design progress
-2. My goal is to create a small design portfolio of 2-3 designs that I am proud of
-Web: My personal project (thank you trees)
-1-2 class project(s)
+2. My goal is to create a small design portfolio of 2-3 designs that I am proud of:
+    - Web: My personal project (thank you trees)
+    - 1-2 class project(s)
 3. My goal is to build relationships with everyone in my cohort, Devin, and my coach.
 
 >### My Action Plan (pick one goal)
@@ -98,24 +98,24 @@ I will know when I’m making progress when my coach is happy with my progress.
 
 ------
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
-If you haven't already realised, my dear reader, you are going to be my guinea pig for the next 12 weeks. Since English isn't my first language, and I know my effective writing skills often hold me back from expressing delicate feelings/ideas, I plan to change this with a weekly high-quality journal entry that reflects my work, my thoughts, my feelings and my learnings. I welcome all and any feedback on how I could improve my effective writing skills :) 
+If you haven't already realised, my dear reader, you are going to be my guinea pig for the next 12 weeks. Since English isn't my first language, and I know my effective writing skills often hold me back from expressing delicate feelings and ideas. I plan to change this with a weekly high-quality journal entry that reflects my work, thoughts, feelings and my learnings. I welcome all and any feedback on how I could improve my effective writing skills (or what you are interested in learning about) :) 
 
-As I was coming up with my goals for this week's assignment, I asked myself, "If I had a magic wand, what would I wish to achieve at design school?". Interestingly, I could only think of my frustration at my lack of design understanding and communication. 
+As I was coming up with my goals for this week's assignment, I asked myself, "If I had a magic wand, what would I wish to achieve at design school?". Interestingly, I could only think of my struggle when dealing with my lack of design understanding and communication.
 
-For example, when working on ThankYouTrees, I know where the user experience feels wrong, but I usually can't put my finger on it.
+For example, when working on ThankYouTrees, I know where the user experience feels wrong, but I usually can't put my finger on it, let alone explain to designer friends my design thinking process of what I am trying to achieve. 
 
-Other than my intentions to build a small design portfolio, I know the rest of my goals to be more design-focused. However, I'm trying to embrace that I am not a designer yet, so I don't know what beginner-middle stage designers are thinking about for their goals. I have to make sense of everything with the tools I have (building relationships/better writing plus do my best to be a sponge).
+Other than my intentions to build a small design portfolio, I know the rest of my goals could be more design specific. However, I'm trying to embrace that I am not a designer yet, so I don't know what beginner-middle stage designers are thinking about for their goals now. I have to make sense of everything that I am exposed to, with the tools I have (building relationships/better writing plus be the best sponge I can be).
 
 **New word(s) I learnt:**
 - Secret Cabal - a group of people promoting their views/agenda without the org knowing. 
 
 ------
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways 
-Devin started this week's discussion with the question of what is Design? As someone who comes from a non-design background, I've been consuming (and even perhaps building) experiences. 
+Devin started this week's discussion with the question of 'What is Design?'. As someone who comes from a non-design background, I'm aware I am a consumer (and sometimes the builder) of (wo)man-made experiences.
 
-During my time running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design to me meant communication. Specifically, how can we communicate the vision and story of the charity to the visitor, for them to convert to online paying donors on their new website.
+During my time running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design to me meant communication. Specifically, how can we communicate the vision and story of the charity to the online visitors on their new website, so they convert to online donors.
 
-We also briefly discussed **responsible design means**, perhaps framed differently (but not the same), what is the responsibility of a designer? 
+We also briefly discussed **'what does responsible design mean?'**, perhaps framed differently (but not the same), what is the responsibility of a designer? 
 
 > Our role as designers, is to be the gatekeepers. We are responsible for those using our products.
 
