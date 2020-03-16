@@ -97,7 +97,7 @@ I will know when I’m making progress when my coach is happy with my progress.
 - uploaded the case study on the portfolio website
 
 ------
-### <a name="assignmentTakeaways"></a> This week's assignment takeaways (WIP)
+### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 If you haven't already realised, my dear reader, you are going to be my guinea pig for the next 12 weeks. Since English isn't my first language, and I know my effective writing skills often hold me back from expressing delicate feelings/ideas, I plan to change this with a weekly high-quality journal entry that reflects my work, my thoughts, my feelings and my learnings. I welcome all and any feedback on how I could improve my effective writing skills :) 
 
 As I was coming up with my goals for this week's assignment, I asked myself, "If I had a magic wand, what would I wish to achieve at design school?". Interestingly, I could only think of my frustration at my lack of design understanding and communication. 
@@ -107,18 +107,18 @@ For example, when working on ThankYouTrees, I know where the user experience fee
 Other than my intentions to build a small design portfolio, I know the rest of my goals to be more design-focused. However, I'm trying to embrace that I am not a designer yet, so I don't know what beginner-middle stage designers are thinking about for their goals. I have to make sense of everything with the tools I have (building relationships/better writing plus do my best to be a sponge).
 
 **New word(s) I learnt:**
-- Secret Cabal - a group of people promoting their own views/agenda without the org knowing. 
+- Secret Cabal - a group of people promoting their views/agenda without the org knowing. 
 
 ------
-### <a name="discussionTakeaways"></a> This week's discussion takeaways (WIP)
+### <a name="discussionTakeaways"></a> This week's discussion takeaways 
 Devin started this week's discussion with the question of what is Design? As someone who comes from a non-design background, I've been consuming (and even perhaps building) experiences. 
 
-During my time running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design to me meant communication. Specifically, how can we communicate the vision and story of the charity to the visitor, in order for them to convert to online paying donors on their new website.
+During my time running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design to me meant communication. Specifically, how can we communicate the vision and story of the charity to the visitor, for them to convert to online paying donors on their new website.
 
-We also briefly discussed **responsible design means**, perhaps framed differently (but not exactly the same), what is the responsibility of a designer? 
+We also briefly discussed **responsible design means**, perhaps framed differently (but not the same), what is the responsibility of a designer? 
 
 > Our role as designers, is to be the gatekeepers. We are responsible for those using our products.
 
-This made me wonder why designers don't go through an ethics ceremony similar to how engineers and doctors do. I'd argue the repercussions of Netflix's design patterns are significant to a lot of people's personal health. I found an interesting resource showing a hall of shame [examples](https://twitter.com/darkpatterns).
+This made me wonder why designers don't go through an ethics ceremony similar to how engineers and doctors do. I'd argue the repercussions of Netflix's design patterns are significant to a lot of people's health. I found an interesting resource showing a hall of shame [examples](https://twitter.com/darkpatterns).
 
-Update: my team and I cancelled the Arabs In Tech event because of the covid-19 virus. Stay tuned for what's next :)
+Update: my team and I canceled the Arabs In Tech event because of the covid-19 virus. Stay tuned for what's next :)
