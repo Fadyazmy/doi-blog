@@ -1,4 +1,7 @@
-const config = require("./config.json")
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+// console.log("process.env.GATSBY_GA: ", process.env.GATSBY_GA)
 
 module.exports = {
   siteMetadata: {
@@ -55,7 +58,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: config.google.analytics,
+        trackingId: `${process.env.GATSBY_GA}`,
       },
     },
     `gatsby-plugin-feed`,
