@@ -98,7 +98,7 @@ I will know when I’m making progress when my coach is happy with my progress.
 
 ------
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
-If you haven't already realised, my dear reader, you are going to be my guinea pig for the next 12 weeks. Since English isn't my first language, and I know my effective writing skills often hold me back from expressing delicate feelings and ideas. I plan to change this with a weekly high-quality journal entry that reflects my work, thoughts, feelings and my learnings. I welcome all and any feedback on how I could improve my effective writing skills (or what you are interested in learning about) :) 
+If you haven't already realised, my dear reader, you are going to be my guinea pig for the next 12 weeks. English isn't my first language, and I know my effective writing skills often hold me back from expressing delicate feelings and ideas. I plan to change this with a weekly high-quality journal entry that reflects my work, thoughts, feelings and my learnings. I welcome all and any feedback on how I could improve my effective writing skills (or what you are interested in learning about) :) 
 
 As I was coming up with my goals for this week's assignment, I asked myself, "If I had a magic wand, what would I wish to achieve at design school?". Interestingly, I could only think of my struggle when dealing with my lack of design understanding and communication.
 
