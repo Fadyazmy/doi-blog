@@ -12,15 +12,15 @@ description: "So what's the story?"
 - [This week's discussions takeaways](#discussionTakeaways)
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
-When I work on projects, I often want to start coding before making any plans because I just want to feel the rush and see that I'm progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as they wrap up before finals. 
+When I work on projects, I often want to start coding before making any plans because I just want to feel the rush and see that I'm making progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as the semester wraps up before finals. 
 
-If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university last week of March after talking to several people who shared the same feelings. To my knowledge, this is the first event of it's kind at any campus in Canada, so I'm pretty excited about this! 
+If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university in the last week of March after talking to several people who shared the same feelings. To my knowledge, this is the first event of its kind at any campus in Canada, so I'm pretty excited about this! 
 
-One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited about to learn what his interests and needs are.
+One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited to learn what his interests and needs are.
 
 ------
 ### <a name="assignment"></a> The assignment for this week
-The assignment for this week focuses on figuring out our goals and what we hope to get out of the design school. I guess in other words, it's asking what is our story, and how can this school help us with where we want to take it (story extension).
+The assignment for this week focuses on figuring out our goals and what we hope to get out of the design school. I guess in other words, it's asking what our story is, and how can this school help us with where we want to take it (story extension).
 
 The questions we were asked for week 2 are the following (fill them out yourself before looking at my answers!): 
 
@@ -49,7 +49,7 @@ My dream is to be a Product Manager at a high impact software company and also b
 
 >2. What do you hope to learn during the Department of Illusions?
 
-I hope I can simply sit down one day, critic a problem like a professional designer and come up with a mock visual (if need be) that I can share and get feedback on. Just like with code. 
+I hope I can simply sit down one day, critique a problem like a professional designer and come up with a mock visual (if need be) that I can share and get feedback on. Just like with code. 
 
 >3. What do you want to achieve by completing this course? Document up to three goals and the actions that will help you to achieve those goals.
 
