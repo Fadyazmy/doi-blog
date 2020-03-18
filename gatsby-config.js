@@ -1,3 +1,5 @@
+const config = require("../config.json")
+
 module.exports = {
   siteMetadata: {
     title: `Fady's Design Journal`,
@@ -53,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: config.google.analytics,
       },
     },
     `gatsby-plugin-feed`,
