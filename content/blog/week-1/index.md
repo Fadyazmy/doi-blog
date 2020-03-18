@@ -83,7 +83,7 @@ I will know when I’m making progress when my coach is happy with my progress.
 >1. Create milestones to evaluate progress towards your goal. Milestones can help break a large goal into digestible chunks, helping you see a clear path forward.
 
 **The specific, measurable results I will produce by Week 4 are:**
-  - completed wireframe sketches for ThankYouTrees (TYT) homepage
+  - completed user research and wireframe sketches for ThankYouTrees (TYT) homepage
   - get feedback on the homepage
 
 **The specific, measurable results I will produce by Week 8 are:**
@@ -93,7 +93,7 @@ I will know when I’m making progress when my coach is happy with my progress.
 - set up the portfolio on a chosen platform (custom/Jekyll/Webflow etc.)
 
 **The specific, measurable results I will produce by Week 12 are:**
-- completed a second case study project gotten feedback on all the content and images 
+- completed a second case study project and gotten feedback on all the content and images 
 - uploaded the case study on the portfolio website
 
 ------
