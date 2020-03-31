@@ -1,6 +1,6 @@
 ---
 title: Week 2
-date: "2020-03-15T22:12:03.284Z"
+date: "2020-03-22T22:12:03.284Z"
 description: "What's your definition of design?"
 ---
 
