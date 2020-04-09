@@ -1,6 +1,6 @@
 ---
 title: Week 3
-date: "2020-03-22T22:12:03.284Z"
+date: "2020-03-29T22:12:03.284Z"
 description: "Getting lost in the Empathy Map"
 ---
 
@@ -83,6 +83,8 @@ Since I'm past the business planing stage, I'm a lot more engaged with users for
 
 #### Patricia Moore
 We also learnt about Patty Moore, my new role model. A great article I found that talks about her story is by [Roman Krznaric](https://www.romankrznaric.com/outrospection/2009/11/01/117), which I'll be shortening below.
+
+![patty moore](./patty.jpeg)
 
 Patricia Moore, an industrial designer, was frustrated that her prestigious design firm employer, Raymond Loewy, didn't want to design for people with arthritis. So she decided to conduct an empathy experiment and dress up as an 80 year old woman for 3 years. 
 
