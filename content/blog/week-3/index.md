@@ -1,7 +1,7 @@
 ---
 title: Week 3
 date: "2020-03-22T22:12:03.284Z"
-description: "Some description"
+description: "Getting lost in the Empathy Map"
 ---
 
 #### Index:
