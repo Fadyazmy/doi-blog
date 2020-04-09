@@ -1,7 +1,6 @@
 require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
-// console.log("process.env.GATSBY_GA: ", process.env.GATSBY_GA)
 
 module.exports = {
   siteMetadata: {

@@ -16,7 +16,7 @@ description: "What's your definition of design?"
 
 This week was a bit rough. I am learning how to be present with my family, my significant other, my college work, design school and my passion project ([TYT](https://thankyoutrees)). All schools in Canada have just shut down, and there's a lot of panic with students as they figure out their current housing/school situations in addition to their summer plans (housing/jobs). It's difficult to focus when you've got to carefully manage a delicate situation at home.
 
-On anther note, a friend out of the blue decided to send me 10 ThankYouTrees to show me her appreciation for being a good friend. I also built an gift scheduling feature for my professor from (last week's entry), so he (and anyone) could schedule gifts in advance. I feel humbled that people are investing their money into my passion project, and I'm slowly feeling the pressure of not dissapointing the people who've put their money and trust in me. 
+On anther note, a friend out of the blue decided to send me 10 Thank You Trees to show me her appreciation for being a good friend. I also built an gift scheduling feature for my professor from (last week's entry), so he (and anyone) could schedule gifts in advance. I feel humbled that people are investing their money into my passion project, and I'm slowly feeling the pressure of not dissapointing the people who've put their money and trust in me. 
 
 ### <a name="assignment"></a> The assignment for this week
 

@@ -99,7 +99,7 @@ I will measure my goals using a number of indicators.
 
 **The specific, measurable results I will produce by Week 4 are:**
 
-- completed user research and wireframe sketches for ThankYouTrees (TYT) homepage
+- completed user research and wireframe sketches for Thank You Trees (TYT) homepage
 - get feedback on the homepage
 
 **The specific, measurable results I will produce by Week 8 are:**
@@ -122,7 +122,7 @@ If you haven't already realised, my dear reader, you are going to be my guinea p
 
 As I was coming up with my goals for this week's assignment, I asked myself, "If I had a magic wand, what would I wish to achieve at design school?". Interestingly, I could only think of my struggle when dealing with my lack of design understanding and communication.
 
-For example, when working on ThankYouTrees, I know where the user experience feels wrong, but I usually can't put my finger on it, let alone explain to designer friends my design thinking process of what I am trying to achieve.
+For example, when working on Thank You Trees, I know where the user experience feels wrong, but I usually can't put my finger on it, let alone explain to designer friends my design thinking process of what I am trying to achieve.
 
 Other than my intentions to build a small design portfolio, I know the rest of my goals could be more design specific. However, I'm trying to embrace that I am not a designer yet, so I don't know what beginner-middle stage designers are thinking about for their goals now. I have to make sense of everything that I am exposed to, with the tools I have (building relationships/better writing plus be the best sponge I can be).
 
