@@ -58,7 +58,7 @@ The advice I would give myself in the beginning:
 - Keep thinking how your observations connect the interviewee with the topic and goals (section 1 and 2).
 -  Read the map clockwise, its like a story. For the most part, it does work.
 
-I found a couple of good resources on [uxpin](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/), [uxbooth](https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/) and [youtube](https://www.youtube.com/watch?v=kAdbbsZolOw) that helped me get an idea of how the tool works.
+I also found a couple of good resources on [uxpin](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/), [uxbooth](https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/) and [youtube](https://www.youtube.com/watch?v=kAdbbsZolOw) that helped me get an idea of how the tool works.
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
 At accelerators and also in school, we're taught how to use a business model canvas. As the name suggests this is a tool to develop or document business models into: 
