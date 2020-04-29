@@ -1,7 +1,7 @@
 ---
 title: Week 4
 date: "2020-04-06T22:12:03.284Z"
-description: "A design product cast study, right?"
+description: "Explain to me your design rationale?"
 ---
 
 #### Index:
@@ -22,7 +22,7 @@ I also secured a guest speaker for this week's class (everyone is assigned a wee
 Salim Sader is the co-founder of Goalcast, which is a story telling expert production house for 5-10 mins videos (~500M video views per month). 
 
 ### <a name="assignment"></a> The assignment for this week
-This week's assignment is about communication. We'll be practicing communicating our design thinking of our work and provide to peers regarding their presentation. 
+This week's assignment is about communication. We'll practice communicating our design thinking of our work and provide feedback to peers regarding their presentation. 
 
 > "You can have the most innovative design in the world, but if no one on your team understands what you’re trying to do, it’s never going to leave your Figma file", Devin
 
