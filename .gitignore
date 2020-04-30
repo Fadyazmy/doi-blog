@@ -71,3 +71,6 @@ yarn-error.log
 # config keys
 config.json
 .env
+
+# do not commit weekly template
+content/assets/template.md
