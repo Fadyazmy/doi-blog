@@ -1,7 +1,7 @@
 ---
 title: Week 2
-date: "2020-03-22T22:12:03.284Z"
-description: "What's your definition of design?"
+date: "2020-03-15T22:12:03.284Z"
+description: "So what's the story?"
 ---
 
 #### Index:
@@ -14,77 +14,134 @@ description: "What's your definition of design?"
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
 
-This week was a bit rough. I am learning how to be present with my family, my significant other, my college work, design school and my passion project ([TYT](https://thankyoutrees)). All schools in Canada have just shut down, and there's a lot of panic with students as they figure out their current housing/school situations in addition to their summer plans (housing/jobs). It's difficult to focus when you've got to carefully manage a delicate situation at home.
+When I work on projects, I often want to start coding before making any plans because I just want to feel the rush and see that I'm making progress. Similarly, with week 1 at DOI, I just wanted to start designing and get my hands dirty. However, I'm thankful we didn't start designing yet because these last 3 weeks of college are getting a little challenging as the semester wraps up before finals.
 
-On anther note, a friend out of the blue decided to send me 10 Thank You Trees to show me her appreciation for being a good friend. I also built an gift scheduling feature for my professor from (last week's entry), so he (and anyone) could schedule gifts in advance. I feel humbled that people are investing their money into my passion project, and I'm slowly feeling the pressure of not dissapointing the people who've put their money and trust in me. 
+If you've read the previous week, I was toying with the idea of rediscovering my Arabic identity and how to tell my story. I decided to organise an Arabs in Tech panel at my university in the last week of March after talking to several people who shared the same feelings. To my knowledge, this is the first event of its kind at any campus in Canada, so I'm pretty excited about this!
+
+One of my professors asked if he could schedule a [Thank You Tree](https://thankyoutrees.io) in advance and if there could be pictures included in the gift description. This is my second unsolicited customer, so I'm super excited to learn what his interests and needs are.
+
+---
 
 ### <a name="assignment"></a> The assignment for this week
 
-This week we continue to explore different definitions of design and which design skills do we wish to develop over the next 12 months.
+The assignment for this week focuses on figuring out our goals and what we hope to get out of the design school. I guess in other words, it's asking what our story is, and how can this school help us with where we want to take it (story extension).
 
-First, we were asked to write our own definition of design.
+The questions we were asked for week 2 are the following (fill them out yourself before looking at my answers!):
 
-Second we were asked to create our own Pi Models (inspired by X from book Y). More on this in the [discussion takeaways](#discussionTakeaways) section to learn about this concept.
+> ### My Goals
+>
+> 1.  What do you want the peak of your career to look like?
+> 2.  What do you hope to learn during the Department of Illusions?
+> 3.  What do you want to achieve by completing this course? Document up to three goals and the actions that will help you to achieve those goals.
+
+> ### My Action Plan (pick one goal)
+>
+> 1.  What are the steps (the actions) that you will take to help you move towards your goal? List out all the actions that would need to be completed to achieve your goal, be specific. Mention 3 steps.
+
+> ### Design how you will measure your goals
+>
+> 1.  Design how you will measure your goals
+
+> ### Create milestones for weeks 4, 8, and 12
+>
+> 1.  Create milestones to evaluate progress towards your goal. Milestones can help break a large goal into digestible chunks, helping you see a clear path forward.
+
+---
 
 ### <a name="responses"></a> My responses
 
-> **Write your personal answer to the question ‘what is design?’**
+> ### My Goals
+>
+> 1.  What do you want the peak of your career to look like?
 
-As a _software engineer_, design means creating software that is easy to maintain and grow as the business/users needs to develop.
+My dream is to be a Product Manager at a high impact software company and also be a role model for others coming from non-target schools with little resources. Outside of work, I hope I invest my time and resources in mentoring local entrepreneurs and building inclusive communities for minorities (something I relate to).
 
-As a _data scientist_, design is the art of crafting good experiments to help make correct data-driven decision.
+> 2.  What do you hope to learn during the Department of Illusions?
 
-And as an _optimistic future designer_, design right now means creating processes along with a story that users experience when interacting with anything human or nature made.
+I hope I can simply sit down one day, critique a problem like a professional designer and come up with a mock visual (if need be) that I can share and get feedback on. Just like with code.
 
-> **Create a skill pi model for now and in 12 months:**
+> 3.  What do you want to achieve by completing this course? Document up to three goals and the actions that will help you to achieve those goals.
 
-My entrepreneurial mind considered doing this in the easiest way (on excel), however I wanted to take this opportunity to get familiar with a design tool before the heavy technical assignments in the coming weeks kick in.
+1. My goal is to have a personal journal of my design progress
+2. My goal is to create a small design portfolio of 2-3 designs that I am proud of:
+   - Web: My personal project (thank you trees)
+   - 1-2 class project(s)
+3. My goal is to build relationships with everyone in my cohort, Devin, and my coach.
 
-Here's the link to my pi model on Figma ([link](https://www.figma.com/file/aPusehUDuFMZ27XmlJPgZV/Week-2---Design-Skill-Pi-Chart?node-id=0%3A1)).
+> ### My Action Plan (pick one goal)
+>
+> 1.  What are the steps (the actions) that you will take to help you move towards your goal? List out all the actions that would need to be completed to achieve your goal, be specific. Mention 3 steps.
 
-![skills today](./today.png)
-Today I consider my core skills to be software/web engineering and data science. I've also highlighted other design skills that I plan to work on because I believe they complement my long term goals. I'll explain why:
+**Selected goal:**
 
-- **Storytelling** is a skill everyone should learn in my opinion. If you want to talk about yourself, or even a project you're working on, storytelling is how you allow someone to build empathy (more on that next week). Empathy is important, because without it, everything would be treated like a black box and evaluated based on it's functionality.
-- **Product Design** incorporates a bit of everything. Every company has their own definition of what product designer does. For my purposes I'm defining this as: 
+Goal #2 - create a small design portfolio of 2-3 designs that I am proud of.
 
->"The product designer is in charge of the entire process of creating products and usable experiences, starting with defining the problems of real people and thinking about their possible solutions.", [Carlos Beneyto](https://uxdesign.cc/the-job-of-the-product-designer-and-its-importance-in-a-startup-37f7235f5955).
+**The actions I will take to help me achieve this goal are:**
 
-This is important for me, because within the entire product cycle 
->**[research->design->prototype->launch->iterate/scale->iterate/scale(again)]**
+1. Be on top of school and assignments. No procrastination.
+2. Commit to specific hours throughout the week for DOI work. Consider streaming on Twitch to enforce a commitment?
+3. Staying healthy, work out at least two times a week.
 
-I can contribute to the subsection of **[prototype->launch->iterate]**, and as an entrepreneur and an aspiring product manager, I have conducted customer **research/invterviews** to validate all feature ideas. 
+> ### Design how you will measure your goals
+>
+> 1.  Design how you will measure your goals
 
-This leaves me with a design gap. I don't know how to connect my research findings, to the appropriate design insights so that I could start prototyping an mvp. 
+I will measure my goals using a number of indicators.
 
-- **Design Strategist** 
-> "Design strategist influence the direction of a product. Think more ambitious and more long term. Some agency, some vision, a lot of story story telling and communication to leadership.", [Devin Mancuso](https://dev.in)
+1. Am I publishing a journal entry every week? (goal #1)
+2. Am I completing the designated week's assigment? (goal #2)
+3. Am I taking measurable small steps towards building my portfolio? (goal #2). This is my first time putting together design work, so I'll clarfiy my steps in a later post.
+4. Am I building a relationship with someone new every week? (goal #3)
 
-As an entrepreneur I spend a lot of time pitching friends bad product ideas. I've learnt (with a bit of selection bias) how my community circle thinks. I also enjoy spending time creating _visions_ of ideas that I think are ground breaking. In order to communicate it one needs to storytell where society (or the consumer) is now and where it can go.
+> ### Create milestones for weeks 4, 8, and 12
+>
+> 1.  Create milestones to evaluate progress towards your goal. Milestones can help break a large goal into digestible chunks, helping you see a clear path forward.
 
-![skills in 12 months](./12months.png)
-My logic behind the changes: 
-- Since I don't do data science work regularly anymore, I recognize my skills will get outdated. However since I'm plugged in the community, read acamedic papers for fun and even discuss technical AI topics with research colleagues I will be at arms length. 
-- My #1 growth focus is *product design*, connecting that chain of [research->DESIGN->prototype->launch->iterate/scale]. 
-- My #2 growth focus is *story telling*. Since this is relevant in my personal life, as much as it is in professional career.
-- My #3 growth focus is *design strategist*. This isn't a skill per se, as much as it's a job function I'd want to be close to/experience in some capacity.
+**The specific, measurable results I will produce by Week 4 are:**
 
-Note: before this assignment I thought Figma and Framer were the same software (don't judge), but I figured it out on my own!
+- completed user research and wireframe sketches for Thank You Trees (TYT) homepage
+- get feedback on the homepage
+
+**The specific, measurable results I will produce by Week 8 are:**
+
+- completed the case study for TYT (including home and gifts pages)
+- written out all the content and images for the case study in a google doc
+- gotten feedback on the content and images
+- set up the portfolio on a chosen platform (custom/Jekyll/Webflow etc.)
+
+**The specific, measurable results I will produce by Week 12 are:**
+
+- completed a second case study project and gotten feedback on all the content and images
+- uploaded the case study on the portfolio website
+
+---
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
-My biggest assignment takeaway this week was learning how to view my story in a design lens and appreciating what *design* can mean. This was incredibly useful because up until recently I was only viewing design as a tool/a means to a goal.
 
-Design in fact, is so much more than a fancy mockup since a valid mockup requires a lot of research before coming to a visual conclusion otherwise it can hurt the business more. 
+If you haven't already realised, my dear reader, you are going to be my guinea pig for the next 12 weeks. English isn't my first language, and I know my effective writing skills often hold me back from expressing delicate feelings and ideas. I plan to change this with a weekly high-quality journal entry that reflects my work, thoughts, feelings and my learnings. I welcome all and any feedback on how I could improve my effective writing skills (or what you are interested in learning about) :)
 
-This is a nice visual that was shared in class to illustrate my point.
-![ux work](./ux.jpg)
+As I was coming up with my goals for this week's assignment, I asked myself, "If I had a magic wand, what would I wish to achieve at design school?". Interestingly, I could only think of my struggle when dealing with my lack of design understanding and communication.
+
+For example, when working on Thank You Trees, I know where the user experience feels wrong, but I usually can't put my finger on it, let alone explain to designer friends my design thinking process of what I am trying to achieve.
+
+Other than my intentions to build a small design portfolio, I know the rest of my goals could be more design specific. However, I'm trying to embrace that I am not a designer yet, so I don't know what beginner-middle stage designers are thinking about for their goals now. I have to make sense of everything that I am exposed to, with the tools I have (building relationships/better writing plus be the best sponge I can be).
+
+**New word(s) I learnt:**
+
+- Secret Cabal - a group of people promoting their views/agenda without the org knowing.
+
+---
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
 
-[Devin](https://dev.in/) explained that there are usually two buckets of designers: a) T-shaped designer and b) Pi-shaped designer.
+Devin started this week's discussion with the question of 'What is Design?'. As someone who comes from a non-design background, I'm aware I am a consumer (and sometimes the builder) of (wo)man-made experiences.
 
-T-shaped designers are those with one strong skill, while Pi-shaped designers are those with a major and 1-2 minor skills. You can read more about this [here](https://medium.com/@cminion/t-shaped-people-pi-shaped-people-and-cthulhu-shaped-people-b44888e0bac4). 
+During my time running a tech consulting [non-profit](https://developersfoundation.ca) for charities, design to me meant communication. Specifically, how can we communicate the vision and story of the charity to the online visitors on their new website, so they convert to online donors.
 
-> “Design is the intentional solution to a problem within a set of constraints”, Mike Monteiro
+We also briefly discussed **'what does responsible design mean?'**, perhaps framed differently (but not the same), what is the responsibility of a designer?
 
-Reflecting on this, I know I'm on a trajectory to be some sort of pi-shaped product manager. The sooner I figure out the personal story I want pursue, the sooner I can craft personal story and professional goals.
+> Our role as designers, is to be the gatekeepers. We are responsible for those using our products.
+
+This made me wonder why designers don't go through an ethics ceremony similar to how engineers and doctors do. I'd argue the repercussions of Netflix's design patterns are significant to a lot of people's health. I found an interesting resource showing a hall of shame [examples](https://twitter.com/darkpatterns).
+
+Update: my team and I canceled the Arabs In Tech event because of the covid-19 virus. Stay tuned for what's next :)

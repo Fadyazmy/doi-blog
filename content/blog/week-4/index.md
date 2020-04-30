@@ -1,7 +1,7 @@
 ---
 title: Week 4
-date: "2020-04-06T22:12:03.284Z"
-description: "Explain to me your design rationale?"
+date: "2020-03-29T22:12:03.284Z"
+description: "Getting lost in the Empathy Map"
 ---
 
 #### Index:
@@ -14,81 +14,82 @@ description: "Explain to me your design rationale?"
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
 
-This week is the last week of school, so all my courses are wrapping up. I'm feeling a little anxious as there's a lot happening at home at the moment (not-health related), Thank You Trees is picking up as friends/family are starting to use it/request features (\$300 in sales!), and I'm not putting in the time I want to for this course. So I made the decision to drop one course which I couldn't get an accomodation for a deadline extension. Due to covid-19, this course substituted a midterm for 2 long assignments, which broke my planning and commitments. This was a hard decision to make, but it came down to my belief that it's better to do a couple of things well rather than many things not so well.
+I'm personally feeling a bit better now that it's WFH week 3. Doug Ford, Premier of Ontario, declared a state of emergency (for Ontario) so all non-essential services have to stop. 
 
-I also got to meet with Paul and Fiza from my cohort as part of this week's assignment. This was refreshing, especially now when human contact is rare, to make new friends and learn about their story/thought process behind their case.
-
-I also secured a guest speaker for this week's class (everyone is assigned a week to bring a guest speaker of their choice). I am a huge fan of good storytelling. I find there's little difference between Pixar story telling through motion pictures and someone storytelling an experience they had.
-
-Salim Sader is the co-founder of Goalcast, which is a story telling expert production house for 5-10 mins videos (~500M video views per month).
+On a more positive note I have been making progress with my personal health, as I squeeze more 20 mins runs this week (twitter [thread](https://twitter.com/fadifessa/status/1222936312237428737?s=20) progress).
 
 ### <a name="assignment"></a> The assignment for this week
+This week we'll be practicing empathy maps to help us understand and relate to people. 
 
-This week's assignment is about communication. We'll practice communicating our design thinking of our work and provide feedback to peers regarding their presentation.
+> **What is an empathy map?** It's a collaborative tool teams can use to gain a deeper insight into their customers.
 
-> "You can have the most innovative design in the world, but if no one on your team understands what you’re trying to do, it’s never going to leave your Figma file", Devin
+> **What is it used for?** Empathy maps can be useful for the following purposes ([more info](https://www.solutionsiq.com/resource/blog-post/what-is-an-empathy-map/)):
+>   - elaborating on user personas
+>   - capturing behaviors when pair interviewing a customer
+>   - building out the “user” in your user story
 
-1. It’s time to practice presenting your design rationale and decision making. Find another student to team up with, you’ll both practice presenting one piece of work from your portfolio to each other.
-
-2. Then it’s time to broaden that audience! Record a Loom video walking us through 1 piece of work from your portfolio.
+1. Identify a colleague who finds it hard to understand the value of design and create an Empathy Maps for them using the templates located in Bonus Materials this week. Typical examples could include a PM, Eng. Lead, VP Legal, etc.
+    - Draw from current or previous experiences, but to prevent shaming, avoid real names.
+    - Include a little background on the org and the individual — think basic characteristics (role or responsibilities), so peers understand the context
+    - If you haven’t got enough real-world experience to draw from then you’ll replace this colleague map with another student map (see below).
+2. Interview one of your fellow classmates and create an empathy map for them.
+    - You’ll need to think about what questions you’re going to ask in order to get the necessary information to complete the map. 
+3. Draw conclusions from your work with these reflection statements. Look for actionable insights that you can bring back into your day-to-day work or studies.
 
 ### <a name="responses"></a> My responses
 
-I struggled with this week's assigmment a bit because I wasn't sure what would an appropriate design presentation be like. I've presented my logic from a product/business/tech perspective before, but design was a first.
+My assignment response is [here](https://www.figma.com/file/P9ndOXPQ3kIFdvy1daZKds/Week-3?node-id=41%3A2), however I also included my latest map below for your convenience.
 
-This is my response video presenting the project I'm currently working on [Thank You Trees](https://thankyoutrees.io):
+![Empathy map](./empathy_map.png) 
 
-- https://www.loom.com/share/d90264426d4848be9c8112fd51841336
-
-My format for this video was:
-
-- Self introduction
-- Problem
-- (pain points)
-- Solution brief
-- My role
-- User personas (x3)
-- Demo
-- 3 design decision (Contribution, Gift page, carbon sequestration)
+Note: You can see in the _Before review_ and _After review_ figma pages, how my empathy map changed once I got my assignment feedback and redid my empathy map.
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
+I found it difficult to interview people for an empathy map in the beginning. Despite understanding the sections of the map, I couldn't put together a conversation in my head, to organically discover the thoughts/needs/wants of my interviewee. I also got a bit confused on how to approach sections 1 and 2 (Goal).
 
-Something new I learnt was the importance of involving stakeholders early in the process. It doesn’t matter how flashy a design can be, because it might not be what the stakeholder wants.
+In web development, folks sometimes screenshare as they start a project from scratch. This helps beginners learn by watching, and also have an idea of what a good example looks like. Unfortunately, I couldn't find an example of an empathy map conversation online so I learnt by doing. 
 
-This knowledge helps validate an assumption I had that visuals isn’t what will win the task. Extending this point further, I believe an but functional visual that is acceptable by stakeholders is worth more than a best in class-visual which is not accepted by stakeholders.
+In the second part of the assignment, I had to interview a fellow classmate. This was very helpful, because my classmate offered some tips and personal examples, as I was conducting my interview. 
 
-There is an opportunity here for me to learn and be conscious of how to seek/use customer feedback so that new designs/features are praised by community. An area I want to investigate deeper is coming up with a process to request and consolidate feedback from community and different stakeholders.
+The advice I would give myself in the beginning: 
+- Focus on a problem/challenge/topic you'd like to have the conversation about. 
+- Make sure to set the scene of the interview with sections 1 and 2 of the map before moving on to different sections. Sections 1 and 2, along with the topic you're focusing on (previous point) will help keep the conversation be constructive.
+- Keep it simple, but ask why if you're not satisfied with understanding. 
+- Keep thinking how your observations connect the interviewee with the topic and goals (section 1 and 2).
+-  Read the map clockwise, its like a story. For the most part, it does work.
 
-Areas of improvement:
-
-- Expand on how the personas connect (add a slide to show conclusions of commonality)
-- Include visuals in the product presentation to highlight features, before showcasing the demo
+I also found a couple of good resources on [uxpin](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/), [uxbooth](https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/) and [youtube](https://www.youtube.com/watch?v=kAdbbsZolOw) that helped me get an idea of how the tool works.
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
+At accelerators and also in school, we're taught how to use a business model canvas. As the name suggests this is a tool to develop or document business models into: 
+- Key partners
+- Key activities 
+- Key resources
+- Value proposition
+- Customer relationships 
+- Customer segments
+- Channels
+- Revenue streams 
+- Cost structure
 
-I found that I learnt a lot from [re-doing](https://www.loom.com/share/69f1335d3349484c95812ab787b308c5) my assignments. Practice makes perfect, and even after learning CS/programming it's difficult to re-accept that rule.
+I can see why it makes sense (since assumptions), to *blackbox* the customer into discrete sections: 
+ 1) segments, 
+ 2) relationships and, 
+ 3) indirectly, the value proposition (which solves customer problems).
 
-During our lecture we discussed what **_good design_** is. Good design is agnostic of how flashy/visually appealing a solution might seem, it has to:
+> The Empathy Map was created with a pretty specific set of ideas and is designed as a framework to complement an exercise in developing empathy - Dave Gray, founder of XPLANE
 
-1. Solves a problem
-2. Be usable, easy for users
-3. Everyone must be behind it - supported by all stakeholders
+Since I'm past the business planing stage, I'm a lot more engaged with users for Thank You Trees. As a result I think of the business model canvas as a nautical compass to help set the direction of the ship, while the empathy map fine tunes it.
 
-It was also refreshing to go over the importance of articulation. This reminder was a bit personal for me, because I initially joined CS because of my weak articulation/design skills to share concepts/ideas with friends. Articulation is important because it:
-- Shows intelligence
-- Demonstrates intentionality ("they really thought about this.. huh")
-- Expresses confidence (not wishy washy, know next steps)
-- Shows respect (you value peoples time because you are prepared)
+#### Patricia Moore
+We also learnt about Patty Moore, my new role model. A great article I found that talks about her story is by [Roman Krznaric](https://www.romankrznaric.com/outrospection/2009/11/01/117), which I'll be shortening below.
 
-Devin also shared some tips on how to handle meetings effectively:
->> There's a 'meeting after the meeting':
-- The informal social gathering after the meeting, maybe more important than the meeting itself?
-- Try to be last to leave
-- Don’t go for lunch immediately
-- Sometimes people are quite in the meeting and want to talk in private
-- Manager might be there, so their role is just to listen
-  - Don't voice their opinions for time/other reasons
-- Give candid feedback (allies give you good advice)
-- Send a follow up email 1 hour later. This demonstrates the meeting was a priority, you value the meeting and the participants.
+![patty moore](./patty.jpeg)
 
-On a similar note, I've been reading about workforce productivity and management styles lately and I found some of Amazon's work relevant to my learnings. For example Amazon [structures meetings around 6 page memos](https://www.linkedin.com/pulse/beauty-amazons-6-pager-brad-porter/) and they operate (and also hire based) on their [Leadership Principles](https://www.amazon.jobs/en/principles).
+Patricia Moore, an industrial designer, was frustrated that her prestigious design firm employer, Raymond Loewy, didn't want to design for people with arthritis. So she decided to conduct an empathy experiment and dress up as an 80 year old woman for 3 years. 
+
+She tried shopping in supermarkets, going up and down stairs, in and out of department stores, catching the bus, opening fridge doors, using can openers and much more. At one point she was robbed, beaten and left for dead by a gang of youths.
+
+Based on her experiences and insights, she was able to design a whole series of innovative products that were suitable for use by elderly people.
+
+She is credited as one of the founders of Universal Design, an approach in which products are designed non-exclusively, for use by the widest range of consumers possible, and which has now become standard in the industry.

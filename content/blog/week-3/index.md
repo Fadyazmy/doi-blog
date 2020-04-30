@@ -1,7 +1,7 @@
 ---
 title: Week 3
-date: "2020-03-29T22:12:03.284Z"
-description: "Getting lost in the Empathy Map"
+date: "2020-03-22T22:12:03.284Z"
+description: "What's your definition of design?"
 ---
 
 #### Index:
@@ -14,82 +14,77 @@ description: "Getting lost in the Empathy Map"
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
 
-I'm personally feeling a bit better now that it's WFH week 3. Doug Ford, Premier of Ontario, declared a state of emergency (for Ontario) so all non-essential services have to stop. 
+This week was a bit rough. I am learning how to be present with my family, my significant other, my college work, design school and my passion project ([TYT](https://thankyoutrees)). All schools in Canada have just shut down, and there's a lot of panic with students as they figure out their current housing/school situations in addition to their summer plans (housing/jobs). It's difficult to focus when you've got to carefully manage a delicate situation at home.
 
-On a more positive note I have been making progress with my personal health, as I squeeze more 20 mins runs this week (twitter [thread](https://twitter.com/fadifessa/status/1222936312237428737?s=20) progress).
+On anther note, a friend out of the blue decided to send me 10 Thank You Trees to show me her appreciation for being a good friend. I also built an gift scheduling feature for my professor from (last week's entry), so he (and anyone) could schedule gifts in advance. I feel humbled that people are investing their money into my passion project, and I'm slowly feeling the pressure of not dissapointing the people who've put their money and trust in me. 
 
 ### <a name="assignment"></a> The assignment for this week
-This week we'll be practicing empathy maps to help us understand and relate to people. 
 
-> **What is an empathy map?** It's a collaborative tool teams can use to gain a deeper insight into their customers.
+This week we continue to explore different definitions of design and which design skills do we wish to develop over the next 12 months.
 
-> **What is it used for?** Empathy maps can be useful for the following purposes ([more info](https://www.solutionsiq.com/resource/blog-post/what-is-an-empathy-map/)):
->   - elaborating on user personas
->   - capturing behaviors when pair interviewing a customer
->   - building out the “user” in your user story
+First, we were asked to write our own definition of design.
 
-1. Identify a colleague who finds it hard to understand the value of design and create an Empathy Maps for them using the templates located in Bonus Materials this week. Typical examples could include a PM, Eng. Lead, VP Legal, etc.
-    - Draw from current or previous experiences, but to prevent shaming, avoid real names.
-    - Include a little background on the org and the individual — think basic characteristics (role or responsibilities), so peers understand the context
-    - If you haven’t got enough real-world experience to draw from then you’ll replace this colleague map with another student map (see below).
-2. Interview one of your fellow classmates and create an empathy map for them.
-    - You’ll need to think about what questions you’re going to ask in order to get the necessary information to complete the map. 
-3. Draw conclusions from your work with these reflection statements. Look for actionable insights that you can bring back into your day-to-day work or studies.
+Second we were asked to create our own Pi Models (inspired by X from book Y). More on this in the [discussion takeaways](#discussionTakeaways) section to learn about this concept.
 
 ### <a name="responses"></a> My responses
 
-My assignment response is [here](https://www.figma.com/file/P9ndOXPQ3kIFdvy1daZKds/Week-3?node-id=41%3A2), however I also included my latest map below for your convenience.
+> **Write your personal answer to the question ‘what is design?’**
 
-![Empathy map](./empathy_map.png) 
+As a _software engineer_, design means creating software that is easy to maintain and grow as the business/users needs to develop.
 
-Note: You can see in the _Before review_ and _After review_ figma pages, how my empathy map changed once I got my assignment feedback and redid my empathy map.
+As a _data scientist_, design is the art of crafting good experiments to help make correct data-driven decision.
+
+And as an _optimistic future designer_, design right now means creating processes along with a story that users experience when interacting with anything human or nature made.
+
+> **Create a skill pi model for now and in 12 months:**
+
+My entrepreneurial mind considered doing this in the easiest way (on excel), however I wanted to take this opportunity to get familiar with a design tool before the heavy technical assignments in the coming weeks kick in.
+
+Here's the link to my pi model on Figma ([link](https://www.figma.com/file/aPusehUDuFMZ27XmlJPgZV/Week-2---Design-Skill-Pi-Chart?node-id=0%3A1)).
+
+![skills today](./today.png)
+Today I consider my core skills to be software/web engineering and data science. I've also highlighted other design skills that I plan to work on because I believe they complement my long term goals. I'll explain why:
+
+- **Storytelling** is a skill everyone should learn in my opinion. If you want to talk about yourself, or even a project you're working on, storytelling is how you allow someone to build empathy (more on that next week). Empathy is important, because without it, everything would be treated like a black box and evaluated based on it's functionality.
+- **Product Design** incorporates a bit of everything. Every company has their own definition of what product designer does. For my purposes I'm defining this as: 
+
+>"The product designer is in charge of the entire process of creating products and usable experiences, starting with defining the problems of real people and thinking about their possible solutions.", [Carlos Beneyto](https://uxdesign.cc/the-job-of-the-product-designer-and-its-importance-in-a-startup-37f7235f5955).
+
+This is important for me, because within the entire product cycle 
+>**[research->design->prototype->launch->iterate/scale->iterate/scale(again)]**
+
+I can contribute to the subsection of **[prototype->launch->iterate]**, and as an entrepreneur and an aspiring product manager, I have conducted customer **research/invterviews** to validate all feature ideas. 
+
+This leaves me with a design gap. I don't know how to connect my research findings, to the appropriate design insights so that I could start prototyping an mvp. 
+
+- **Design Strategist** 
+> "Design strategist influence the direction of a product. Think more ambitious and more long term. Some agency, some vision, a lot of story story telling and communication to leadership.", [Devin Mancuso](https://dev.in)
+
+As an entrepreneur I spend a lot of time pitching friends bad product ideas. I've learnt (with a bit of selection bias) how my community circle thinks. I also enjoy spending time creating _visions_ of ideas that I think are ground breaking. In order to communicate it one needs to storytell where society (or the consumer) is now and where it can go.
+
+![skills in 12 months](./12months.png)
+My logic behind the changes: 
+- Since I don't do data science work regularly anymore, I recognize my skills will get outdated. However since I'm plugged in the community, read acamedic papers for fun and even discuss technical AI topics with research colleagues I will be at arms length. 
+- My #1 growth focus is *product design*, connecting that chain of [research->DESIGN->prototype->launch->iterate/scale]. 
+- My #2 growth focus is *story telling*. Since this is relevant in my personal life, as much as it is in professional career.
+- My #3 growth focus is *design strategist*. This isn't a skill per se, as much as it's a job function I'd want to be close to/experience in some capacity.
+
+Note: before this assignment I thought Figma and Framer were the same software (don't judge), but I figured it out on my own!
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
-I found it difficult to interview people for an empathy map in the beginning. Despite understanding the sections of the map, I couldn't put together a conversation in my head, to organically discover the thoughts/needs/wants of my interviewee. I also got a bit confused on how to approach sections 1 and 2 (Goal).
+My biggest assignment takeaway this week was learning how to view my story in a design lens and appreciating what *design* can mean. This was incredibly useful because up until recently I was only viewing design as a tool/a means to a goal.
 
-In web development, folks sometimes screenshare as they start a project from scratch. This helps beginners learn by watching, and also have an idea of what a good example looks like. Unfortunately, I couldn't find an example of an empathy map conversation online so I learnt by doing. 
+Design in fact, is so much more than a fancy mockup since a valid mockup requires a lot of research before coming to a visual conclusion otherwise it can hurt the business more. 
 
-In the second part of the assignment, I had to interview a fellow classmate. This was very helpful, because my classmate offered some tips and personal examples, as I was conducting my interview. 
-
-The advice I would give myself in the beginning: 
-- Focus on a problem/challenge/topic you'd like to have the conversation about. 
-- Make sure to set the scene of the interview with sections 1 and 2 of the map before moving on to different sections. Sections 1 and 2, along with the topic you're focusing on (previous point) will help keep the conversation be constructive.
-- Keep it simple, but ask why if you're not satisfied with understanding. 
-- Keep thinking how your observations connect the interviewee with the topic and goals (section 1 and 2).
--  Read the map clockwise, its like a story. For the most part, it does work.
-
-I also found a couple of good resources on [uxpin](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/), [uxbooth](https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/) and [youtube](https://www.youtube.com/watch?v=kAdbbsZolOw) that helped me get an idea of how the tool works.
+This is a nice visual that was shared in class to illustrate my point.
+![ux work](./ux.jpg)
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
-At accelerators and also in school, we're taught how to use a business model canvas. As the name suggests this is a tool to develop or document business models into: 
-- Key partners
-- Key activities 
-- Key resources
-- Value proposition
-- Customer relationships 
-- Customer segments
-- Channels
-- Revenue streams 
-- Cost structure
 
-I can see why it makes sense (since assumptions), to *blackbox* the customer into discrete sections: 
- 1) segments, 
- 2) relationships and, 
- 3) indirectly, the value proposition (which solves customer problems).
+[Devin](https://dev.in/) explained that there are usually two buckets of designers: a) T-shaped designer and b) Pi-shaped designer.
 
-> The Empathy Map was created with a pretty specific set of ideas and is designed as a framework to complement an exercise in developing empathy - Dave Gray, founder of XPLANE
+T-shaped designers are those with one strong skill, while Pi-shaped designers are those with a major and 1-2 minor skills. You can read more about this [here](https://medium.com/@cminion/t-shaped-people-pi-shaped-people-and-cthulhu-shaped-people-b44888e0bac4). 
 
-Since I'm past the business planing stage, I'm a lot more engaged with users for Thank You Trees. As a result I think of the business model canvas as a nautical compass to help set the direction of the ship, while the empathy map fine tunes it.
+> “Design is the intentional solution to a problem within a set of constraints”, Mike Monteiro
 
-#### Patricia Moore
-We also learnt about Patty Moore, my new role model. A great article I found that talks about her story is by [Roman Krznaric](https://www.romankrznaric.com/outrospection/2009/11/01/117), which I'll be shortening below.
-
-![patty moore](./patty.jpeg)
-
-Patricia Moore, an industrial designer, was frustrated that her prestigious design firm employer, Raymond Loewy, didn't want to design for people with arthritis. So she decided to conduct an empathy experiment and dress up as an 80 year old woman for 3 years. 
-
-She tried shopping in supermarkets, going up and down stairs, in and out of department stores, catching the bus, opening fridge doors, using can openers and much more. At one point she was robbed, beaten and left for dead by a gang of youths.
-
-Based on her experiences and insights, she was able to design a whole series of innovative products that were suitable for use by elderly people.
-
-She is credited as one of the founders of Universal Design, an approach in which products are designed non-exclusively, for use by the widest range of consumers possible, and which has now become standard in the industry.
+Reflecting on this, I know I'm on a trajectory to be some sort of pi-shaped product manager. The sooner I figure out the personal story I want pursue, the sooner I can craft personal story and professional goals.

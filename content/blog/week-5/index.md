@@ -1,7 +1,7 @@
 ---
 title: Week 5
-date: "2020-04-13T22:12:03.284Z"
-description: "Time to critique an app!"
+date: "2020-04-06T22:12:03.284Z"
+description: "Explain to me your design rationale?"
 ---
 
 #### Index:
@@ -13,66 +13,82 @@ description: "Time to critique an app!"
 - [This week's discussions takeaways](#discussionTakeaways)
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
-This week I found out that my internship is being pushed back by a month but everything else is staying the same. I'm feeling very grateful about still having an summer job because a lot of students that I know gotten their offer rescinded.
 
-I was also pretty excited about this week's assignment as I was familiar with it to an extent because it's a common question in Product Management interviews - critiquing an app.
+This week is the last week of school, so all my courses are wrapping up. I'm feeling a little anxious as there's a lot happening at home at the moment (not-health related), Thank You Trees is picking up as friends/family are starting to use it/request features (\$300 in sales!), and I'm not putting in the time I want to for this course. So I made the decision to drop one course which I couldn't get an accomodation for a deadline extension. Due to covid-19, this course substituted a midterm for 2 long assignments, which broke my planning and commitments. This was a hard decision to make, but it came down to my belief that it's better to do a couple of things well rather than many things not so well.
+
+I also got to meet with Paul and Fiza from my cohort as part of this week's assignment. This was refreshing, especially now when human contact is rare, to make new friends and learn about their story/thought process behind their case.
+
+I also secured a guest speaker for this week's class (everyone is assigned a week to bring a guest speaker of their choice). I am a huge fan of good storytelling. I find there's little difference between Pixar story telling through motion pictures and someone storytelling an experience they had.
+
+Salim Sader is the co-founder of Goalcast, which is a story telling expert production house for 5-10 mins videos (~500M video views per month).
 
 ### <a name="assignment"></a> The assignment for this week
-1. For this assignment you will be doing an app critique of ‘Google Maps’ (on either iOS or Android).
-- Your pseudo interviewer would like you to ***“Search for ‘New York’”*** and then begin your critique once you’ve hit search.
-- Record the app critique and post your video to #201-assignments.
-- Keep these short, sharp and sweet, no more than ~10 minutes.
-- Read up the Critique Tips below
+
+This week's assignment is about communication. We'll practice communicating our design thinking of our work and provide feedback to peers regarding their presentation.
+
+> "You can have the most innovative design in the world, but if no one on your team understands what you’re trying to do, it’s never going to leave your Figma file", Devin
+
+1. It’s time to practice presenting your design rationale and decision making. Find another student to team up with, you’ll both practice presenting one piece of work from your portfolio to each other.
+
+2. Then it’s time to broaden that audience! Record a Loom video walking us through 1 piece of work from your portfolio.
 
 ### <a name="responses"></a> My responses
-I found it a bit difficult to constructively critique Google Maps, perhaps because I also haven't used it for a long time since moving in with my parents. Google Maps is a polished application and I've never practiced with anyone before so I was also a bit nervous to share my thoughts. 
 
-I also knew I had to think more about design than I would normally do in a product scenario, so I decided to make some notes about the Google Maps experience which you can get a glimpse of below. 
-![Google Maps app critic notes](./gmaps_notes.png)
-![Google Maps app critic notes](./gmaps_notes_2.png)
+I struggled with this week's assigmment a bit because I wasn't sure what would an appropriate design presentation be like. I've presented my logic from a product/business/tech perspective before, but design was a first.
 
-I uploaded my assignment response video to youtube in case you're interested.
+This is my response video presenting the project I'm currently working on [Thank You Trees](https://thankyoutrees.io):
 
-`youtube: https://www.youtube.com/watch?v=XXFmUw19m9s`
+- https://www.loom.com/share/d90264426d4848be9c8112fd51841336
 
+My format for this video was:
+
+- Self introduction
+- Problem
+- (pain points)
+- Solution brief
+- My role
+- User personas (x3)
+- Demo
+- 3 design decision (Contribution, Gift page, carbon sequestration)
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
-Looking back at the feedback I got and comparing what I analysed vs what my peers analysed, it looked like I went more broad than deep in my analysis. This meant that I didn't get as design technical as I had intended to. 
 
-I consolidated the feedback I received into two sections below: 1) what went well 2) what could have improved.
+Something new I learnt was the importance of involving stakeholders early in the process. It doesn’t matter how flashy a design can be, because it might not be what the stakeholder wants.
 
-**What went well:**
-1. Good use of placeholders / force touch and its impact on user experience
-2. Good mention of the loading inconsistencies, the vague nature of local referrals, the unclickable link in the bio
-3. Great eye for linking your analysis back to relevant news (covid)
-4. Highlighting the order of the icons
-5. Good mention about the UX being confusing where in New York the app was directing you when you search "New York"
+This knowledge helps validate an assumption I had that visuals isn’t what will win the task. Extending this point further, I believe an but functional visual that is acceptable by stakeholders is worth more than a best in class-visual which is not accepted by stakeholders.
 
-**What could be improved:**
-1. Hard to follow how I navigate to new pages. I should call out what elements I'm selecting.
-2. Keep using good transitions like “To continue down the page…” and continue pausing between different comments.
-3. Go a little deeper on typography since I touched on it's visual hierarchy. 
-4. Call out the task being issued and riff a little of what the user goals of such a task could be in the beginning. Am I looking up NYC because you're going there soon or just looking up cities from across the globe?
-5. If I were looking to dig deeper I could have commented on accessibility of the features.
-6. There’s an opportunity to expand more on the "local favorite" section and add more detail. How would I fix it so users could have a better idea of who curated it and maybe articulate more how social proofing could play a role.
-7. Speak to the potential tradeoffs of why certain design decisions were made. 
+There is an opportunity here for me to learn and be conscious of how to seek/use customer feedback so that new designs/features are praised by community. An area I want to investigate deeper is coming up with a process to request and consolidate feedback from community and different stakeholders.
 
+Areas of improvement:
+
+- Expand on how the personas connect (add a slide to show conclusions of commonality)
+- Include visuals in the product presentation to highlight features, before showcasing the demo
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
-This week we touched on some of the good practices and thinking process we should be doing when app critiquing. I found this time incredibly useful because it gave me an idea of what designers normally think about during app critics. 
 
-Most of these prompts are applicable to product interviews as well, I guess the answer is slightly different based on the interview (design/product): 
-- How do they use typeface:
-    - How does that create hierarchy 
-    - Leading high rise? 
-- Cute illustration used? This could be to soften the experience when the user has lost a playlist for example … 
-- If you’re a technical, you can talk about the interaction with the OS level 
-- What is the mission state of the company
-- What is the business model 
-- Who are the primary audience 
-- Are there any solutions on the market 
-- Usage of design principles - grouping things together:
-    - Ergonomics, minimise movement of thumb 
-    - How are gestures leveraged?
-        - Tap, swipe double tab, force touch
-        - Shake, squeeze, 
+I found that I learnt a lot from [re-doing](https://www.loom.com/share/69f1335d3349484c95812ab787b308c5) my assignments. Practice makes perfect, and even after learning CS/programming it's difficult to re-accept that rule.
+
+During our lecture we discussed what **_good design_** is. Good design is agnostic of how flashy/visually appealing a solution might seem, it has to:
+
+1. Solves a problem
+2. Be usable, easy for users
+3. Everyone must be behind it - supported by all stakeholders
+
+It was also refreshing to go over the importance of articulation. This reminder was a bit personal for me, because I initially joined CS because of my weak articulation/design skills to share concepts/ideas with friends. Articulation is important because it:
+- Shows intelligence
+- Demonstrates intentionality ("they really thought about this.. huh")
+- Expresses confidence (not wishy washy, know next steps)
+- Shows respect (you value peoples time because you are prepared)
+
+Devin also shared some tips on how to handle meetings effectively:
+>> There's a 'meeting after the meeting':
+- The informal social gathering after the meeting, maybe more important than the meeting itself?
+- Try to be last to leave
+- Don’t go for lunch immediately
+- Sometimes people are quite in the meeting and want to talk in private
+- Manager might be there, so their role is just to listen
+  - Don't voice their opinions for time/other reasons
+- Give candid feedback (allies give you good advice)
+- Send a follow up email 1 hour later. This demonstrates the meeting was a priority, you value the meeting and the participants.
+
+On a similar note, I've been reading about workforce productivity and management styles lately and I found some of Amazon's work relevant to my learnings. For example Amazon [structures meetings around 6 page memos](https://www.linkedin.com/pulse/beauty-amazons-6-pager-brad-porter/) and they operate (and also hire based) on their [Leadership Principles](https://www.amazon.jobs/en/principles).
