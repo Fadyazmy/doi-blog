@@ -54,7 +54,7 @@ This was my most challenging assignment so far. I didn't record my response with
 - Its okay to think a little (silence) 
 - Can ask questions about who you will be working with / team sizes etc.
 - Go beyond the UI and think about the system / unintended consequences etc. 
-- Get to the UI
+- Get to the UI (ran out of time)
 
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
