@@ -1,6 +1,6 @@
 ---
 title: Week 8
-date: "2020-04-26T22:12:03.284Z"
+date: "2020-05-03T22:12:03.284Z"
 description: "Know any Pretty Good Designers?"
 ---
 
@@ -18,7 +18,7 @@ I've also been spending time this week reconnecting with friends. I'm horrible w
 ![Pretty Good Designers](./pgd.png)
 
 ### <a name="assignment"></a> The assignment for this week
-This week we don't have an assignment to hand in. However we were put into groups (which includes [Paul Progby](https://paulbrophy.co.uk/)) for a group project that we'll be working on in parallel to the individual assignments. 
+This week we don't have an assignment to hand in. However we were put into groups to work on a group project in parallel to the individual assignments. 
 
 For this group project, I was paired with [Paul Progby](https://paulbrophy.co.uk/), and another designer based in Australia. Paul's a brilliant full stack developer turned designer and he's based in the UK.
 
