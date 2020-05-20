@@ -24,7 +24,7 @@ For this group project, I was paired with [Paul Progby](https://paulbrophy.co.uk
 
 We were tasked with creating our own design agency (which we called Pretty Good Designers), work with a hypothetical client (cough Devin), and design a product for the Dept. of Illusions. 
 
-Despite being in 3 time zones, I enjoy working in groups. I'm very much looking forward to building better relationships, and learning from my peers. 
+Despite being in 3 time zones, I enjoy working in groups. I'm very much looking forward to getting to know my team, and learn their own processes of design. 
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
 Often I find myself learning about non-design things in the lecture, and this week was one of them. 
