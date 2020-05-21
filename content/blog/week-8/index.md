@@ -20,11 +20,11 @@ I've also been spending time this week reconnecting with friends. I'm horrible w
 ### <a name="assignment"></a> The assignment for this week
 This week we don't have an assignment to hand in. However we were put into groups to work on a group project in parallel to the individual assignments. 
 
-For this group project, I was paired with [Paul Brophy](https://paulbrophy.co.uk/), and another designer based in Australia. Paul's a brilliant full stack developer turned designer and he's based in the UK.
+For this group project, I was paired with [Paul Brophy](https://paulbrophy.co.uk/), and Lucy Liu. Paul's a brilliant full stack developer turned designer based in the UK, and Lucy's an equally amazing designer doing her undergrad in IT in Australia. 
 
-We were tasked with creating our own design agency (which we called Pretty Good Designers), work with a hypothetical client (cough Devin), and design a product for the Dept. of Illusions. 
+We were tasked with creating our own design agency (which we called ***Pretty Good***), work with a hypothetical client (cough Devin), and design a product for the Dept. of Illusions. 
 
-I enjoy working in groups, so I'm very much looking forward to getting to know my team, and learn their own processes of design.
+I enjoy working in groups, so I'm very much looking forward to getting to know my team, and learn their own processes of design. I learn from seeing people solve the problems I want to solve, and seeing other people extract information will help me grow my design toolkit.
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
 Often I find myself learning about non-design things in the lecture, and this week was one of them. 
