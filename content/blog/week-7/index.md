@@ -59,7 +59,9 @@ This was my most challenging assignment so far. I didn't record my response with
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 
-I learnt that I need to ask friends to practice whiteboard design questions with. It's sounds simple, but I didn't feel comfortable asking my design peers because I was worried I couldn't add as much value to them as they would with me. In hindsight, I think I should have tried harder to not act like a black sheep and embrace the fact that I'm a beginner and engage with everyone. 
+I learnt that I need to ask friends to practice whiteboard design questions with. It's sounds simple, but I didn't feel comfortable asking my design peers because I was worried I couldn't add as much value to them as they would with me. In hindsight, I think I should have tried harder to not act like a black sheep and embrace the fact that I am a designer. 
+
+And just to be extra clear, this was moment of low personal confidence. My time at DOI has been nothing short of just a community of amazing, welcoming and understanding folks. 
 
 In preparation for the interview I spent a couple of hours watching mock design videos on YouTube, but I don't think it helped me get comfortable with the interview format.
 
