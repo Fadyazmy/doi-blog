@@ -28,40 +28,42 @@ Devin mentioned he plans to share it publicly when he feels it's polished enough
 
 ### <a name="responses"></a> My responses
 
-This was my most challenging assignment so far. I didn't record my response with my coach but I did ask if I could share some of the feedback he gave me at the end of my interview. 
+This was my most challenging assignment so far. I didn't record my response with my coach but I did ask if I could share some of the feedback he gave me at the end of my interview.
 
 ![Robo Dog](./robo_dog.jpg)
 
 #### Design challenge:
-> Design a robo-dog companion application
+
+> The challenge brief focused on creating a mobile companion app that would ship with a new toy robot dog, think Aibo from Sony
 
 #### What I did well:
+
 - Asked good questions (compatible previous version, cross platforms, success metrics
 - Replaying the information / conclusions
 - User personas
-    - good at refining e.g. asking about who buys
-    -  Proto-personas (Alex and Jenny)
+  - good at refining e.g. asking about who buys
+  - Proto-personas (Alex and Jenny)
 - Communicating assumptions
 - Replaying where we are at
-- User stories -> Technical requirements 
+- User stories -> Technical requirements
 
 #### What I could have done better:
-- My start was a bit shaky / slow start 
+
+- My start was a bit shaky / slow start
 - Was a little hard to follow the structure. I should be more direct i.e “I’m going to walk through a framework"
 - Inclusive? Be more “inclusive” and broad about users
 - List use cases as they come up in conversation
-- From a user story perspective, think of the beginning (onboarding) -> middle (daily use) ->  end
-- Its okay to think a little (silence) 
+- From a user story perspective, think of the beginning (onboarding) -> middle (daily use) -> end
+- Its okay to think a little (silence)
 - Can ask questions about who you will be working with / team sizes etc.
-- Go beyond the UI and think about the system / unintended consequences etc. 
+- Go beyond the UI and think about the system / unintended consequences etc.
 - Get to the UI (ran out of time)
-
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 
-I learnt that I need to ask friends to practice whiteboard design questions with. It's sounds simple, but I didn't feel comfortable asking my design peers because I was worried I couldn't add as much value to them as they would with me. In hindsight, I think I should have tried harder to not act like a black sheep and embrace the fact that I am a designer. 
+I learnt that I need to ask friends to practice whiteboard design questions with. It's sounds simple, but I didn't feel comfortable asking my design peers because I was worried I couldn't add as much value to them as they would with me. In hindsight, I think I should have tried harder to not act like a black sheep and embrace the fact that I am a designer.
 
-And just to be extra clear, this was moment of low personal confidence. My time at DOI has been nothing short of just a community of amazing, welcoming and understanding folks. 
+This was moment of low personal confidence. My time at DOI has been nothing short of feeling welcomed in a community of intelligent, diverse and understanding folks.
 
 In preparation for the interview I spent a couple of hours watching mock design videos on YouTube, but I don't think it helped me get comfortable with the interview format.
 
@@ -69,10 +71,10 @@ Fortunately I was already familiar with this type of product design question fro
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
 
-Im this week's lecture we mainly discussed the whiteboard challenge. Devin took us step by step of through the process of what a whiteboard design interview should be. 
+Im this week's lecture we mainly discussed the whiteboard challenge. Devin took us step by step of through the process of what a whiteboard design interview should be.
 
 It was also interesting to see how remote white board challenges can make the interview a little harder (at least in my opinion) if you're using Figma vs drawing on a real whiteboard in front of the interviewers.
 
-UPDATE (May 20th, week 12): Now that I have used Figma for a couple of my assignments, I'm certain that I've produced better designs using Figma than any of my paper/whiteboard designs that I've created in my career. 
+UPDATE (May 20th, week 12): Now that I have used Figma for a couple of my assignments, I'm certain that I've produced better designs using Figma than any of my paper/whiteboard designs that I've created in my career.
 
 Do designers need to be good at drawing? I'm not sure anymore.

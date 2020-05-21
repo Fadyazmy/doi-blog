@@ -20,7 +20,7 @@ I've also been spending time this week reconnecting with friends. I'm horrible w
 ### <a name="assignment"></a> The assignment for this week
 This week we don't have an assignment to hand in. However we were put into groups to work on a group project in parallel to the individual assignments. 
 
-For this group project, I was paired with [Paul Progby](https://paulbrophy.co.uk/), and another designer based in Australia. Paul's a brilliant full stack developer turned designer and he's based in the UK.
+For this group project, I was paired with [Paul Brophy](https://paulbrophy.co.uk/), and another designer based in Australia. Paul's a brilliant full stack developer turned designer and he's based in the UK.
 
 We were tasked with creating our own design agency (which we called Pretty Good Designers), work with a hypothetical client (cough Devin), and design a product for the Dept. of Illusions. 
 
