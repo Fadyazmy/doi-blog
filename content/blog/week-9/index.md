@@ -32,9 +32,9 @@ I procrastinated a lot for this assignment. I think this is because I felt a bit
 The customer journey I had in mind for the above design, was to: 
 1. show the user a list of their current reminder commitments
 2. if they select the 'add/plus icon', they'll be asked:
-    1. **who** the reminder is for
-    2. the appropriate reason (**why**) for the reminder
-    3. the appropriate time (**when**) for the reminder
+    1. **who** the reminder is for,
+    2. the appropriate reason (**why**) for the reminder,
+    3. and the appropriate time (**when**) for the reminder
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 Some highlight of the feedback I received from my coach include: 
