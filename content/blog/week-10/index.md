@@ -81,7 +81,7 @@ This week I tried to balance creative thinking and successfully mocking up visua
 
 In our lecture this week I learnt about lo-fi design, some of its theory and the context of why visual design is a powerful tool.
 
-I'm still wraping my head around everything Devin threw at us, however some of the topics he touched on was [Gestlalt's principles](https://www.toptal.com/designers/ui/gestalt-principles-of-design), Interaction Design principles, designing [forgiving interfaces](https://www.interaction-design.org/literature/article/how-to-implement-a-forgiving-format-to-accommodate-users-mistakes) and Don Norman's [design principles](https://www.enginess.io/insights/6-principles-design-la-donald-norman).
+I'm still wraping my head around everything Devin threw at us, however some of the topics he touched on was [Gestalt's principles](https://www.toptal.com/designers/ui/gestalt-principles-of-design), Interaction Design principles, designing [forgiving interfaces](https://www.interaction-design.org/literature/article/how-to-implement-a-forgiving-format-to-accommodate-users-mistakes) and Don Norman's [design principles](https://www.enginess.io/insights/6-principles-design-la-donald-norman).
 
 Someone also pointed out that we have two weeks left for this cohort. This feels very bittersweet and I feel like I am just starting to see my product design skills materialize. 
 
