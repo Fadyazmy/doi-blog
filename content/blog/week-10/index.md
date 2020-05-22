@@ -14,7 +14,7 @@ description: "Mid-fi mockups"
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
 
-I'm feeling a little stretched thin this week. I've started a summer school course last week, and the pace has picked up significantly lately. I've also started to make sure I go out for an hour's worth of walk every day to make sure I keep healthy at home.
+I'm feeling a little stretched thin this week. I've started a summer school course last week, and the pace has picked up significantly lately. I've also started to make sure I walk/run for an hour every day to make sure I keep healthy at home.
 
 This week's design assignment has also been a bit challenging for me, because I've never done a mid-fi before. The assignment became a lot easier when Devin suggested to screenshot some of the screens that I find relevant and start drawing over them on Figma.
 
@@ -47,13 +47,13 @@ I wanted to create an experience where the user can engage with products without
 
 ![Twitch](./twitch.jpg)
 
-I check out a couple of live video apps and I liked Twitch the most. This was because I liked the existing visual hierarchy:
+I check out a couple of live video apps and I liked what Twitch had the most. This was because I liked the existing visual hierarchy:
 
 - title (streamer name),
 - purpose of the video,
 - and a system of categorization using tags.
 
-I also found it easy to browse through the Discover page because the layout was compact and simple. This is experience was relative to YouTube and Amazon Live (web app on mobile).
+I also found it easy to browse through the Discover page because the layout was compact and simple. This experience comparison is relative to YouTube and Amazon Live (web app on mobile).
 
 That being said, the titles of the sections and perhaps the 'featured' videos up top could be better highlighted for the purpose of live mobile shopping.
 
@@ -67,7 +67,7 @@ I also liked Loom's video player (for the Browse View). It's pretty easy to see 
 
 ![Mid-fi mockups](./mid_fi_mockups.png)
 
-Creating the mid-fi took some time, but it was all worth it. I know it doesn't look great, but I'm happy with what I was able to come up with for a mid-fi.
+Creating the mid-fi took some time, but it was all worth it. I know it doesn't look great, but I'm happy that I was able to use Figma to produce a mid-fi mockup.
 
 I struggled with taking inspiration from the loom video player and also find out a good way to do in-video shopping. I think the product highlights in the featured video (Browse view) are too small for a mobile user to see, so I need more time to reflect on solving this issue.
 
@@ -75,11 +75,11 @@ I struggled with taking inspiration from the loom video player and also find out
 
 I procrastinated less this week, but I also spent a lot of time coming up with a design process that I could translate ideas into visuals (until I received Devin's Frankenstein tip).
 
-This week I tried to balance creative thinking and successfully mocking up visuals. Perhaps this is inspired by my learnings in CS, I find myself designing something ugly looking first that has the correct structure/flow and then I iterate on every component to make it look closer to production ready.
+This week I tried to balance creative thinking and successfully mocking up visuals. Perhaps this is inspired by my CS thinking, but I found it efficient to design something ugly first that has the correct structure/flow and then iterate the components to make it look closer to the fidelity that you want it at.
 
 ### <a name="discussionTakeaways"></a> This week's discussion takeaways
 
-In our lecture this week I learnt about lo-fi design, some of its theory and the context of why visual design is a powerful tool.
+In our lecture this week I learnt about what lo-fi design is, some of its theory and the context of why visual design is a powerful tool.
 
 I'm still wraping my head around everything Devin threw at us, however some of the topics he touched on was [Gestalt's principles](https://www.toptal.com/designers/ui/gestalt-principles-of-design), Interaction Design principles, designing [forgiving interfaces](https://www.interaction-design.org/literature/article/how-to-implement-a-forgiving-format-to-accommodate-users-mistakes) and Don Norman's [design principles](https://www.enginess.io/insights/6-principles-design-la-donald-norman).
 
