@@ -31,13 +31,13 @@ I procrastinated a lot for this assignment. I think this is because I felt a bit
 
 The customer journey I had in mind for the above design, was to: 
 1. show the user a list of their current reminder commitments
-2. if they select the 'add/plus icon' the select, 
+2. if they select the 'add/plus icon', they'll be asked:
     1. **who** the reminder is for
     2. the appropriate reason (**why**) for the reminder
     3. the appropriate time (**when**) for the reminder
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
-I got some feedback from my coach, that I should consider: 
+Some highlight of the feedback I received from my coach include: 
 1. The information priority of what I'm highlighting as most important
 2. The second screen wasn't clear. What does *General* mean etc. 
 
@@ -48,6 +48,10 @@ This was my first time learning about Design Research in a technical fashion. I 
 
 I'm embarrassed to admit that I thought feedback was a linear one-dimensional process. I thought it was about ask potential customers their pain points, or ask questions that can help you hypothesis their pain points. Then iterate until you have arrived to a common denominator amongst your audience. 
 
+![User Research methods](./user-research-methods.png)
+
 [This resource](https://www.nngroup.com/articles/which-ux-research-methods/) by the NN Group is one of the suggested readings we had for this week. The article does a good job in describing the landscape of design research, which I think is important to be familiar with because it gives you context when pursuing feedback.  
+
+![ABCD](./ABCD.png)
 
 At Thank You Trees, I typically conducted customer interviews with a simple framework ([ABCD](https://twitter.com/nbashaw/status/1237131727635501056?lang=en)) to keep informal conversations constructive and passive. At least in early stage products/startups, I want to be a relationship with my users so that they feel more comfortable with the product and also communicate their thoughts more freely.
