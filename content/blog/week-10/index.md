@@ -1,6 +1,6 @@
 ---
 title: Week 10
-date: "2020-05-17T22:12:03.284Z"
+date: "2020-05-10T22:12:03.284Z"
 description: "Mid-fi mockups"
 ---
 
@@ -70,6 +70,26 @@ I also liked Loom's video player (for the Browse View). It's pretty easy to see 
 Creating the mid-fi took some time, but it was all worth it. I know it doesn't look great, but I'm happy that I was able to use Figma to produce a mid-fi mockup.
 
 I struggled with taking inspiration from the loom video player and also find out a good way to do in-video shopping. I think the product highlights in the featured video (Browse view) are too small for a mobile user to see, so I need more time to reflect on solving this issue.
+
+I also realised, from the feedback I received, that I forgot to include a chat textbox in the Livestream view. This was a bit embarrasing because I was oblivious to this the entire time.
+
+#### Some of the feedback I received:
+General: 
+- Show some sketches/thought process rather than just upload the screen drawings
+- Feels more like a video app supporting live, rather than a stream selling app
+
+Browse view: 
+- top navbar is too big 
+- can improve aligning / use a grid system?
+
+Livestream view: 
+- Chat box missing 
+- Looks odd that there are two timeline
+- video timeline at the bottom and product timeline on the right side
+
+Purchase view: 
+- The product image carousel restricts the size of images that I can show properly. 
+- It's not clear what the top right X of the product details modal is suppose to do. 
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 
