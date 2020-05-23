@@ -1,6 +1,6 @@
 ---
 title: Week 8
-date: "2020-05-03T22:12:03.284Z"
+date: "2020-04-26T22:12:03.284Z"
 description: "Know any Pretty Good Designers?"
 ---
 
