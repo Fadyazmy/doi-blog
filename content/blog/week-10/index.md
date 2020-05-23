@@ -75,17 +75,16 @@ I also realised, from the feedback I received, that I forgot to include a chat t
 
 #### Some of the feedback I received:
 General: 
-- Show some sketches/thought process rather than just upload the screen drawings
-- Feels more like a video app supporting live, rather than a stream selling app
+- Show some sketches/thought process rather than just upload the screen drawings.
+- Feels more like a video app supporting live, rather than a stream selling app.
 
 Browse view: 
-- top navbar is too big 
-- can improve aligning / use a grid system?
+- Top navbar is too big.
+- Can improve aligning / use a grid system?
 
 Livestream view: 
-- Chat box missing 
-- Looks odd that there are two timeline
-- video timeline at the bottom and product timeline on the right side
+- Chat box missing.
+- Looks odd that there are two timeline (video timeline at the bottom and product timeline on the right side).
 
 Purchase view: 
 - The product image carousel restricts the size of images that I can show properly. 
