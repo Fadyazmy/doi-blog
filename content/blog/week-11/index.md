@@ -119,8 +119,8 @@ Often when I listen to someone speak, I notice their personality and try to unde
 
 For the whole 30 min fire side chat, Meg Lewis was a balloon of positive energy, always smiling and laughing and also brutally honest about her story and vulnerabilities. We've had many amazing guests this week, and it's interesting to see how body language can capture the audience and this was one of them. A great YouTube channel that touches on this is [Charisma On Command](https://www.youtube.com/user/charismaoncommand) if you're interested in learning more.
 
-Meg spoke about the story behind her podcast [**Sit There & Do Nothing**](https://sitthereanddonothing.com/) and her [personal branding style guide](https://www.fulltimeyou.co/). I learnt how she used her childhood (memories include comedians, silent comedians and circuses for example) to help craft the colours and personality of her style guide.
+Meg spoke about the story behind her podcast [Sit There & Do Nothing](https://sitthereanddonothing.com/) and her [personal branding style guide](https://www.fulltimeyou.co/). I learnt how she used her childhood (memories include comedians, silent comedians and circuses for example) to help craft the colours and personality of her style guide.
 
 I also loved how she asked her self _'why can't meditation be funny?'_. It's a question that makes you think twice about what you believe meditation is.
 
-I've lately been interested in asking fundamental questions that challenge what we believe certain things should be. So needless to say, her this anecdote channeled my energy, and I applaud Meg for having done this so well! 👏
+Asking fundamental questions that challenge the status quo, and I think is very healthy to do. Needless to say, this anecdote channeled my energy, and I applaud Meg for having done this so well! 👏
