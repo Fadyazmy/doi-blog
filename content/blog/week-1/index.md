@@ -38,5 +38,5 @@ Since DOI will be putting us in groups for the later assignments, and the nature
 
 We also talked about being a guarantee for each person. As Devin put it first, "I operate as a guarantee for you. This means if I ask for one hour of your time for this meeting, then it's my responsibility to make sure we commit to that". 
 
-In other words, since we commited to the program, it's our responsibility to make sure we either complete our work or let the team know in advance that you won't be able to make the deadline.
+In other words, since we committed to the program, it's our responsibility to make sure we either complete our work or let the team know in advance that you won't be able to make the deadline.
 <!-- Ask what the purpose of mentioning Victor Papanek book? -->

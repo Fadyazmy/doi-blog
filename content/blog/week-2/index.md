@@ -89,8 +89,8 @@ Goal #2 - create a small design portfolio of 2-3 designs that I am proud of.
 I will measure my goals using a number of indicators.
 
 1. Am I publishing a journal entry every week? (goal #1)
-2. Am I completing the designated week's assigment? (goal #2)
-3. Am I taking measurable small steps towards building my portfolio? (goal #2). This is my first time putting together design work, so I'll clarfiy my steps in a later post.
+2. Am I completing the designated week's assignment? (goal #2)
+3. Am I taking measurable small steps towards building my portfolio? (goal #2). This is my first time putting together design work, so I'll clarify my steps in a later post.
 4. Am I building a relationship with someone new every week? (goal #3)
 
 > ### Create milestones for weeks 4, 8, and 12

@@ -42,7 +42,7 @@ My assignment response is [here](https://www.figma.com/file/P9ndOXPQ3kIFdvy1daZK
 
 ![Empathy map](./empathy_map.png) 
 
-Note: You can see in the _Before review_ and _After review_ figma pages, how my empathy map changed once I got my assignment feedback and redid my empathy map.
+Note: You can see in the _Before review_ and _After review_ Figma pages, how my empathy map changed once I got my assignment feedback and redid my empathy map.
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 I found it difficult to interview people for an empathy map in the beginning. Despite understanding the sections of the map, I couldn't put together a conversation in my head, to organically discover the thoughts/needs/wants of my interviewee. I also got a bit confused on how to approach sections 1 and 2 (Goal).

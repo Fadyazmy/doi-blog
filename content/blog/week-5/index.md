@@ -14,9 +14,9 @@ description: "Explain to me your design rationale?"
 
 ### <a name="howAmIfeeling"></a> How I'm feeling so far
 
-This week is the last week of school, so all my courses are wrapping up. I'm feeling a little anxious as there's a lot happening at home at the moment (not-health related), Thank You Trees is picking up as friends/family are starting to use it/request features (\$300 in sales!), and I'm not putting in the time I want to for this course. So I made the decision to drop one course which I couldn't get an accomodation for a deadline extension. Due to covid-19, this course substituted a midterm for 2 long assignments, which broke my planning and commitments. This was a hard decision to make, but it came down to my belief that it's better to do a couple of things well rather than many things not so well.
+This week is the last week of school, so all my courses are wrapping up. I'm feeling a little anxious as there's a lot happening at home at the moment (not-health related), Thank You Trees is picking up as friends/family are starting to use it/request features (\$300 in sales!), and I'm not putting in the time I want to for this course. So I made the decision to drop one course which I couldn't get an accommodation for a deadline extension. Due to covid-19, this course substituted a midterm for 2 long assignments, which broke my planning and commitments. This was a hard decision to make, but it came down to my belief that it's better to do a couple of things well rather than many things not so well.
 
-I also got to meet with Paul and Fiza from my cohort as part of this week's assignment. This was refreshing, especially now when human contact is rare, to make new friends and learn about their story/thought process behind their case.
+I also got to meet with [Paul](https://paulbrophy.co.uk/) and [Fiza]() from my cohort as part of this week's assignment. This was refreshing, especially now when human contact is rare, to make new friends and learn about their story/thought process behind their case.
 
 I also secured a guest speaker for this week's class (everyone is assigned a week to bring a guest speaker of their choice). I am a huge fan of good storytelling. I find there's little difference between Pixar story telling through motion pictures and someone storytelling an experience they had.
 
@@ -34,7 +34,7 @@ This week's assignment is about communication. We'll practice communicating our 
 
 ### <a name="responses"></a> My responses
 
-I struggled with this week's assigmment a bit because I wasn't sure what would an appropriate design presentation be like. I've presented my logic from a product/business/tech perspective before, but design was a first.
+I struggled with this week's assignment a bit because I wasn't sure what would an appropriate design presentation be like. I've presented my logic from a product/business/tech perspective before, but design was a first.
 
 This is my response video presenting the project I'm currently working on [Thank You Trees](https://thankyoutrees.io):
 

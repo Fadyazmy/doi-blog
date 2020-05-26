@@ -16,7 +16,7 @@ description: "What's your definition of design?"
 
 This week was a bit rough. I am learning how to be present with my family, my significant other, my college work, design school and my passion project ([TYT](https://thankyoutrees)). All schools in Canada have just shut down, and there's a lot of panic with students as they figure out their current housing/school situations in addition to their summer plans (housing/jobs). It's difficult to focus when you've got to carefully manage a delicate situation at home.
 
-On anther note, a friend out of the blue decided to send me 10 Thank You Trees to show me her appreciation for being a good friend. I also built an gift scheduling feature for my professor from (last week's entry), so he (and anyone) could schedule gifts in advance. I feel humbled that people are investing their money into my passion project, and I'm slowly feeling the pressure of not dissapointing the people who've put their money and trust in me. 
+On anther note, a friend out of the blue decided to send me 10 Thank You Trees to show me her appreciation for being a good friend. I also built an gift scheduling feature for my professor from (last week's entry), so he (and anyone) could schedule gifts in advance. I feel humbled that people are investing their money into my passion project, and I'm slowly feeling the pressure of not disappointing the people who've put their money and trust in me. 
 
 ### <a name="assignment"></a> The assignment for this week
 
@@ -64,7 +64,7 @@ As an entrepreneur I spend a lot of time pitching friends bad product ideas. I'v
 
 ![skills in 12 months](./12months.png)
 My logic behind the changes: 
-- Since I don't do data science work regularly anymore, I recognize my skills will get outdated. However since I'm plugged in the community, read acamedic papers for fun and even discuss technical AI topics with research colleagues I will be at arms length. 
+- Since I don't do data science work regularly anymore, I recognize my skills will get outdated. However since I'm plugged in the community, read academic papers for fun and even discuss technical AI topics with research colleagues I will be at arms length. 
 - My #1 growth focus is *product design*, connecting that chain of [research->DESIGN->prototype->launch->iterate/scale]. 
 - My #2 growth focus is *story telling*. Since this is relevant in my personal life, as much as it is in professional career.
 - My #3 growth focus is *design strategist*. This isn't a skill per se, as much as it's a job function I'd want to be close to/experience in some capacity.
