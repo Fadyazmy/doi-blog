@@ -123,4 +123,4 @@ Meg spoke about the story behind her podcast [Sit There & Do Nothing](https://si
 
 I also loved how she asked her self _'why can't meditation be funny?'_. It's a question that makes you think twice about what you believe meditation is.
 
-Asking fundamental questions that challenge the status quo, I believe is very healthy habit to do. Needless to say, this anecdote channeled my energy, and I applaud Meg for having done this so well! 👏
+Asking fundamental questions that challenge the status quo, I believe is a very healthy habit to have. Needless to say, this anecdote channeled my energy, and I applaud Meg for having done this so well! 👏
