@@ -71,7 +71,7 @@ Creating the mid-fi took some time, but it was all worth it. I know it doesn't l
 
 I struggled with taking inspiration from the loom video player and also find out a good way to do in-video shopping. I think the product highlights in the featured video (Browse view) are too small for a mobile user to see, so I need more time to reflect on solving this issue.
 
-I also realised, from the feedback I received, that I forgot to include a chat textbox in the Livestream view. This was a bit embarrasing because I was oblivious to this the entire time.
+I also realised, from the feedback I received, that I forgot to include a chat textbox in the Livestream view. This was a bit embarrassing because I was oblivious to this the entire time.
 
 #### Some of the feedback I received:
 General: 
@@ -100,7 +100,7 @@ This week I tried to balance creative thinking and successfully mocking up visua
 
 In our lecture this week I learnt about what lo-fi design is, some of its theory and the context of why visual design is a powerful tool.
 
-I'm still wraping my head around everything Devin threw at us, however some of the topics he touched on was [Gestalt's principles](https://www.toptal.com/designers/ui/gestalt-principles-of-design), Interaction Design principles, designing [forgiving interfaces](https://www.interaction-design.org/literature/article/how-to-implement-a-forgiving-format-to-accommodate-users-mistakes) and Don Norman's [design principles](https://www.enginess.io/insights/6-principles-design-la-donald-norman).
+I'm still wrapping my head around everything Devin threw at us, however some of the topics he touched on was [Gestalt's principles](https://www.toptal.com/designers/ui/gestalt-principles-of-design), Interaction Design principles, designing [forgiving interfaces](https://www.interaction-design.org/literature/article/how-to-implement-a-forgiving-format-to-accommodate-users-mistakes) and Don Norman's [design principles](https://www.enginess.io/insights/6-principles-design-la-donald-norman).
 
 Someone also pointed out that we have two weeks left for this cohort. This feels very bittersweet and I feel like I am just starting to see my product design skills materialize. 
 
