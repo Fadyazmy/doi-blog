@@ -87,9 +87,9 @@ This was a fun screen to do. It took me some time to find the right visual hiera
 
 This was the most challenging screen to do. I changed the vertical product timeline that I had in the [lo-fi](/week-10) a more circular one. The goal of this feature was allow the viewer to see what products are showcased, and purchase a product without leaving the livestream view.
 
-I struggled again with the visual hierarchy and organisation of the cards, so I moved the price out of the card and into a price tag at the top corner. One of my design colleagues designed their product view with muted tabs that had a line underneath (that I would presume move to the active tab). It wss a design pattern that I was familiar, but didn't consider, so I borrowed it for my product card as well.
+I struggled again with the visual hierarchy and organisation of the cards, so I moved the price out of the card and into a price tag at the top corner. One of my design colleagues designed their product view with muted tabs that had a line underneath (that I would presume move to the active tab). It was a design pattern that I was familiar, but didn't consider, so I borrowed it for my product card as well.
 
-#### In-sity designs
+#### In-situ designs
 
 ![artboard](./artboard.png)
 
@@ -97,7 +97,7 @@ I'm a fan of Lewis Hilsenteger's Unbox Therapy, and I love how he starts every v
 
 So I included a wrapped small box on the left (one of the not so many free assets) to give the viewer a sense of curiosity about what product/gadget is behind the wrapping.
 
-This was made using [artboards](https://artboard.studio/) and their free wrapped box asset.
+This was made using [Artboard Studio](https://artboard.studio/) and their free wrapped box asset.
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 
