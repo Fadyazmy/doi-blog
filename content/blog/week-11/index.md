@@ -85,9 +85,9 @@ This was a fun screen to do. It took me some time to find the right visual hiera
 
 **Purchase view**
 
-This was the most challenging screen to do. I changed the vertical product timeline that I had in the [lo-fi](/week-10) a more circular one. The goal of this feature was allow the viewer to see what products are showcased, and purchase a product without leaving the livestream view.
+This was the most challenging screen to do. I changed the vertical product timeline that I had in the [lo-fi mockup](/week-10) to a more circular one structure. The initial intention was to show the viewer the showcased products without leaving the livestream view.
 
-I struggled again with the visual hierarchy and organisation of the cards, so I moved the price out of the card and into a price tag at the top corner. One of my design colleagues designed their product view with muted tabs that had a line underneath (that I would presume move to the active tab). It was a design pattern that I was familiar, but didn't consider, so I borrowed it for my product card as well.
+I struggled again with the visual hierarchy and organisation of the cards, so I moved the price out of the card and into a price tag at the top corner. One of my design colleagues designed their product view with muted tabs that had a line underneath (that I would presume move to the active tab). This was a design pattern that I was familiar with, but didn't consider. I felt the pattern would work well with the information that I wanted to portray, so I borrowed it for my product card as well.
 
 #### In-situ designs
 
@@ -123,4 +123,4 @@ Meg spoke about the story behind her podcast [Sit There & Do Nothing](https://si
 
 I also loved how she asked her self _'why can't meditation be funny?'_. It's a question that makes you think twice about what you believe meditation is.
 
-Asking fundamental questions that challenge the status quo, and I think is very healthy to do. Needless to say, this anecdote channeled my energy, and I applaud Meg for having done this so well! 👏
+Asking fundamental questions that challenge the status quo, I believe is very healthy habit to do. Needless to say, this anecdote channeled my energy, and I applaud Meg for having done this so well! 👏
