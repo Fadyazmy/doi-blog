@@ -48,10 +48,13 @@ Before I started prototyping, I wanted to improve my mockups from last week beca
 
 ![Week 12 prototype](./week12_prototype.gif)
 
-You can check out the Figma prototype [here](https://www.figma.com/proto/QjffU1w5lgBGZMyroEVKhr/Shopping-App?node-id=334%3A2&scaling=scale-down) if you'd like to interact with it. If the screen size doesn't look the same, make sure to select options > 'Fit - scale down to fit.
+You can check out the Figma prototype [here](https://www.figma.com/proto/QjffU1w5lgBGZMyroEVKhr/Shopping-App?node-id=334%3A2&scaling=scale-down) if you'd like to interact with it. If the screen size doesn't look the same, make sure to select options > 'Fit - scale down to fit'.
 
 ![Checklist](./checklist.png)
 
+This prototype checks off all of the main required and bonus interactions except for one - the 'add to cart' feature. I excluded this feature for two main reasons: 
+1. I felt that having 3 CTA's (a 'add to cart', 'bookmark' and a 'buy' button) in the product description card would be too many interactive actions in a small area.
+2. Since the products are under $50, and likely averaging around $20, the user would be comfortable with buying a product on the spot. If not, they'll more likely want to save the product for later than add it to cart.
 
 ### <a name="assignmentTakeaways"></a> This week's assignment takeaways
 
@@ -93,5 +96,5 @@ One big thing that this blog can't provide though, is the chance to ask and list
 
 I'm still unsatisfied with my week 12 prototype and so I'm working on a second iteration based on the new feedback I received. 
 
-I'm planning on writing 1-2 more journal entries to show my final prototype and also share some of the digested reflections of the previous 12 weeks. 
+I plan to write 1-2 more journal entries to show my final prototype and also share some of the digested reflections of the previous 12 weeks. 
 
