@@ -92,9 +92,9 @@ A visual example (like a hi-fi design) of an app can still convince a customer t
 ### <a name="next"></a> What's next
 The goal of this design journal was to document my experiences as I started to take up design more seriously. I wrote this in such a way that if I had come across this on my own, without going through DOI, I'd be able to de-mystifying design and accomplish most of the things I did here. 
 
-One big thing that this blog can't provide though, is the chance to ask and listen to designers talk about design for 18 (1.5 * 12) hours. This helped get into the correct mindset, and approach design work differently. 
+One big thing that this blog can't provide though, is the chance to ask and listen to designers talk about design for 18 (1.5 * 12) hours. This helped me get into the correct mindset, and approach design work differently. 
 
 I'm still unsatisfied with my week 12 prototype and so I'm working on a second iteration based on the new feedback I received. 
 
-I plan to write 1-2 more journal entries to show my final prototype and also share some of the digested reflections of the previous 12 weeks. 
+I plan to write 1-2 more journal entries to show my final prototype and also share some of the reflections I made over the past 12 weeks. 
 
