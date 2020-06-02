@@ -25,7 +25,7 @@ This week we don't have an individual assignment this week so we can continue wo
 ### <a name="responses"></a> Our responses
 We shared with Devin a low-fi mockup of the features that we ended up pursuing (4 in total). I told my team, that I'd like to work on the **reminder feature** because I already had an idea of how the customer base would be using it. 
 
-I procrastinated a lot for this assignment. I think this is because I felt a bit nervous as this my first time using Figma and also my first time getting design feedback on any visual design work.
+I procrastinated a lot for this assignment. I think this is because I felt a bit nervous as this was my first time using Figma and also my first time getting feedback on a visual design work I have created.
 
 ![Figma low-fi flow](./figma_plant_lo_fi.png)
 
